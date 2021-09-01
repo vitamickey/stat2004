@@ -1,8 +1,8 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{3}{chapter*.1}%
+\contentsline {chapter}{Preface}{28}{chapter*.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{I\hspace {1em}Building on Lecture Notes}{5}{part.1}%
+\contentsline {part}{I\hspace {1em}Geoff's half of the course}{5}{part.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Lec 1: Introduction to statistical inference}{6}{chapter.1}%
 \defcounter {refsection}{0}\relax 
@@ -52,30 +52,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.9}Sufficiency}{18}{section.6.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.10}Rao-Blackwell Theorem}{18}{section.6.10}%
+\contentsline {section}{\numberline {6.10}I am not sure what to call this section}{19}{section.6.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.1}Theorem 2.}{19}{subsection.6.10.1}%
+\contentsline {section}{\numberline {6.11}Jensen's Inequality}{19}{section.6.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{II\hspace {1em}Background and basics}{20}{part.2}%
+\contentsline {section}{\numberline {6.12}Kullback-Leibler Distance}{19}{section.6.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Random experiments and probability models}{21}{chapter.7}%
+\contentsline {section}{\numberline {6.13}Large Sample Theory}{19}{section.6.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Random experiments}{21}{section.7.1}%
+\contentsline {section}{\numberline {6.14}Consistency}{19}{section.6.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Sample spaces}{21}{section.7.2}%
+\contentsline {section}{\numberline {6.15}Large-sample comparisons of estimators}{20}{section.6.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Events and sigma algebras}{22}{section.7.3}%
+\contentsline {section}{\numberline {6.16}Asymptotic efficiency}{20}{section.6.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Probability}{23}{section.7.4}%
+\contentsline {section}{\numberline {6.17}Maximum likelihood theorems}{20}{section.6.17}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}Conditional probability and independence}{23}{section.7.5}%
+\contentsline {section}{\numberline {6.18}Asymptotic distribution theorems}{20}{section.6.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.1}Chain rule}{23}{subsection.7.5.1}%
+\contentsline {part}{II\hspace {1em}Alan's half of the course}{21}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{23}{subsection.7.5.2}%
+\contentsline {part}{III\hspace {1em}Stuff from STAT2003 and such}{22}{part.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.3}Independence}{23}{subsection.7.5.3}%
+\contentsline {chapter}{\numberline {7}Random experiments and probability models}{23}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Formulas}{24}{chapter.8}%
+\contentsline {section}{\numberline {7.1}Random experiments}{23}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{26}{Item.38}%
+\contentsline {section}{\numberline {7.2}Sample spaces}{23}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Events and sigma algebras}{24}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Probability}{25}{section.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}Conditional probability and independence}{25}{section.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.1}Chain rule}{25}{subsection.7.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{25}{subsection.7.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.3}Independence}{25}{subsection.7.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Formulas}{26}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{28}{chapter*.3}%

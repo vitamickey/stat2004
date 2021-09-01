@@ -1,5 +1,4 @@
-\chapter[Lec 6: Point estimation]{Lec 6: Point estimation}
-
+\chapter[Lec 7: Distribution of \(s^2\)]{Lec 7: Distribution of \(s^2\)}\label{ch:Lec 7:dist of s^2}
 
 \section{Introduction}\label{sec:6intro}
 
@@ -258,7 +257,7 @@ pmf or pdf \(f(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\) belongs to the
     f(\bm{x}_1,...,\bm{x}_n;\bm{\theta}) = L(\bm{\theta}) = b(\bm{x}_1,...,\bm{x}_n)\exp{\bm{c}(\bm{\theta})^T \bm{T}(\bm{x}_1,...,\bm{x}_n;\bm{\theta})/a(\bm{\theta})},
 \end{equation}
 
-where \(bm{c}(\bm{\theta})\) is a \(q\times 1\) vector function of \(\bm{\theta}\) and \(a(\bm{\theta})\) and \(b(\bm{x}_1,...,\bm{x}_n)\) 
+where \(\bm{c}(\bm{\theta})\) is a \(q\times 1\) vector function of \(\bm{\theta}\) and \(a(\bm{\theta})\) and \(b(\bm{x}_1,...,\bm{x}_n)\) 
 are non-negative scalar functions. 
 
 
@@ -288,8 +287,10 @@ If an unbiased estimator \(T\) attains the MVB, then it is a \textbf{MVB estimat
 
 Note that if a function \(g(\theta)\) of \(\theta\) has an unbiased estimator that attains the MVB, then any other function of \(\theta\) with an unbiased estimator that attains the MVB must be a linear function of \(g(\theta)\). 
 
-To find a UMVU estimator or determine whether an estimator is UMVU, we have a couple of methods.
-A UMVU estimator can be found by implementing \hyperref[thm:thm 2 UMVU]{Theorem 2} from section \ref{sec:thm 2 UMVU}. 
+\bigskip
+
+To find a UMVU estimator or determine whether an estimator is UMVU, we have a couple of methods. 
+A UMVU estimator can be found by implementing \hyperref[thm:thm 2 UMVU]{Theorem 2} from section \ref{sec:Rao-Blackwell??}. 
 
 \section{Maximum Likelihood Method (ML)}\label{sec:ML method}
 
@@ -317,7 +318,7 @@ let's suppose we have some likelihood function \(L(\bm{\theta})\) and proceed to
 \begin{definition}[Maximum likelihood estimate]\label{defn:ml estimate}
     If 
     \begin{equation}\label{eq:ml estimate}
-        \hat{\bm{\theta}} = \bm{U}(\bm{x}_1,...,\bm{x}_n)
+        \hat{\bm{\theta}} = U(\bm{x}_1,...,\bm{x}_n)
     \end{equation}
     maximises the corresponding likelihood \(L(\bm{\theta})\), then \(\hat{\bm{\theta}}\) is called the \textbf{maximum likelihood estimate}.
     This is also referred to as the \textbf{ML estimate} or simply the \textbf{MLE}.
@@ -329,12 +330,19 @@ From this, the definition of the \textbf{maximum likelihood estimator} follows.
 \begin{definition}[Maximum likelihood estimator]\label{defn:ml estimator}
     Given an MLE such as above (eq. \ref{eq:ml estimate}), the corresponding random variable
     \begin{equation}\label{eq:ml estimator}
-        \bm{U}(\bm{X}_1,...,\bm{X}_n)
+        U(\bm{X}_1,...,\bm{X}_n)
     \end{equation}
     is called the \textbf{maximum likelihood estimator}, also referred to as the \textbf{ML estimator}.
 \end{definition}
 
-How do we find these maximum likelihood things?
+How do we find these maximum likelihood things? 
+Well, we can equate the score statistic to \(0\) and substitute \(\bm{\theta}\) for \(\hat{\bm{\theta}}\) to find the MLE. 
+This actually makes a lot of sense since the score statistic is a derivative of the likelihood, so we are literally just using classic optimisation/maximisation techniques when using the ML method. 
+When asked to find the estimator as opposed to the estimate, simply replace any observed values \(x_i\) with their corresponding random variables \(X_i\).
+
+\begin{exercise}
+    Here are a bunch of places we do this: Tutorial 2 question 1 part (i) and (ii), tutorial 2 question 5, assignment 1 question (iii) and (v), assignment 2 question (b) part (ii).
+\end{exercise}
 
 \section{Sufficiency}\label{sec:sufficiency}
 
@@ -357,7 +365,7 @@ A \textbf{statistic} is a function of the data alone which does not rely on any 
 \begin{definition}[Sufficient]\label{defn:sufficient}
     Let \(\bm{X}_1,...,\bm{X}_n\) be a random sample from a probability distribution with unknown parameter \(\bm{\theta}\). 
     Then, the statistic
-    \[\bm{T} = \bm{U}(\bm{X}_1,...,\bm{X}_n)\]
+    \[\bm{T} = U(\bm{X}_1,...,\bm{X}_n)\]
     is said to be \textbf{sufficient} for \(\bm{\theta}\) if the conditional distribution of \(X_1,...,X_n\), 
     given the statistic \(\bm{T}\), does not depend on the parameter \(\bm{\theta}\). 
 \end{definition}
@@ -398,7 +406,7 @@ So, if we are able to find such a factorisation for a joint pmf or pdf,
 the \(\bm{T}\) we have found is a sufficient statistic. 
 
 
-\section{Rao-Blackwell Theorem}\label{sec:Rao-Blackwell}
+\section{I am not sure what to call this section}\label{sec:Rao-Blackwell??}
 
 \textit{From page 30.}
 
@@ -408,7 +416,7 @@ the \(\bm{T}\) we have found is a sufficient statistic.
     then, \(U(\bm{T})\) is a UMVU estimator of \(\theta\) and it is unique (see Geoff's notes for particularities).
 \end{theorem}
 
-\subsection{Theorem 2.}\label{sec:thm 2 UMVU}
+The following theorem is referred to as the \textbf{Lehmann-Scheff\'{e} Theorem}.
 
 \begin{theorem}[Theorem 2]\label{thm:thm 2 UMVU}
     Let \(\bm{X}\) be a random variable with a pmf or pdf \(f(x;\bm{\theta})\) and suppose that \(\bm{T}\) is a complete, sufficient statistic for \(\theta\). 
@@ -416,5 +424,86 @@ the \(\bm{T}\) we have found is a sufficient statistic.
     then, \(U(\bm{T})\) is a UMVU estimator of \(\theta\) and it is unique (see Geoff's notes for particularities).
 \end{theorem}
 
+\begin{theorem}[Basu's Theorem]\label{thm:Basu's}
+    Let \(\bm{T}\) be a complete, sufficient statistic for \(\bm{\theta}\). 
+    If the distribution of some statistic \(V(\bm{X}_1,...,\bm{X}_n)\) does not depend on \(\bm{\theta}\), 
+    then \(\bm{V}\) is said to be an \textbf{ancillary} statistic, i.e. a statistic that is distributed independently of \(\bm{T}\).
+\end{theorem}
+
+
+\section{Jensen's Inequality}\label{sec:Jensen's ineq}
+
+
+
+\section{Kullback-Leibler Distance}\label{sec:Kullback-Leibler}
+
+
+
+\section{Large Sample Theory}\label{sec:large sample theory}
+
+
+\section{Consistency}\label{sec:consistency}
+
+\begin{definition}[Consistent]\label{defn:consistent}
+    A sequence of estimators \(T_n\) of \(g(\bm{\theta})\) is said to be \textbf{consistent} if for every \(\bm{\theta}\in\Omega\), 
+    \begin{equation*}
+        T_n \overset{P_\theta}{\to} g(\bm{\theta})\text{ as } n\to\infty;
+    \end{equation*}
+    that is, given any \(\varepsilon>0\), then 
+    \begin{equation*}
+        \mathbb{P}\left(|T_n(\bm{X}_1,...,\bm{X}_n) - g(\bm{\theta})| \geq \varepsilon \right) \to 0\text{ as } n\to\infty.
+    \end{equation*}
+\end{definition}
+
+\begin{theorem}[Consistent]\label{thm:consistent}
+    If \(\text{Var}(T_n)\to 0\) and \(\text{bias}(T_n)\to 0\) as \(n\to\infty\), then the sequence of estimates \(T_n\) is consistent for estimating \(g(\bm{\theta})\). 
+\end{theorem}
+
+\begin{proof}
+    Given in the notes.
+\end{proof}
+
+\begin{exercise}
+    Tutorial 2 question 4 asks you to present this proof, essentially. 
+\end{exercise}
+
+
+\section{Large-sample comparisons of estimators}\label{sec:large-sample comps}
+
+
+\section{Asymptotic efficiency}\label{sec:asymptotic efficiency}
+
+
+
+\section{Maximum likelihood theorems}\label{sec:ML thms}
+
+\textit{Page 48, a.k.a. "SOME THEOREMS THAT PROVIDE A BASIS FOR MAXIMUM LIKELIHOOD".}
+
+% \begin{theorem}[Theorem 3]\label{thm:thm 3 MLE}
+%     .
+% \end{theorem}
+
+% \begin{theorem}[Theorem 4]\label{thm:thm 4 MLE}
+%     .
+% \end{theorem}
+
+% \begin{theorem}[Theorem 5]\label{thm:thm 5 MLE}
+%     .
+% \end{theorem}
+
+\section{Asymptotic distribution theorems}\label{sec:asymptotic thms}
+
+\textit{Page 53, a.k.a. "Some further theorems concerning asymptotic distributions".}
+
+
+
+% \section{Maximum likelihood estimation under incorrect model}\label{sec:ML est incorrect}
+
+% \textit{Page 55. Section is capitalised in the notes.}
+
+
+% \section{Maximum likelihood estimation under incorrect model}\label{sec:ML est incorrect}
+
+% \textit{Page 55. Section is capitalised in the notes.}
 
 

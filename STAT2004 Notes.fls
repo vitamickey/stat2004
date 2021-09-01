@@ -1251,70 +1251,42 @@ INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.s
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT .\preface.tex
-INPUT .\preface.tex
-INPUT .\preface.tex
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\tools\.tex
 INPUT .\STAT2004 Notes.aux
 INPUT STAT2004 Notes.aux
 INPUT STAT2004 Notes.aux
-INPUT .\titlepageandtoc.aux
-INPUT titlepageandtoc.aux
-INPUT titlepageandtoc.aux
-INPUT .\preface.aux
-INPUT preface.aux
-INPUT preface.aux
-INPUT .\pt1ch1lec1.aux
-INPUT pt1ch1lec1.aux
-INPUT pt1ch1lec1.aux
-INPUT .\pt1ch2lec2.aux
-INPUT pt1ch2lec2.aux
-INPUT pt1ch2lec2.aux
-INPUT .\pt1ch3lec3.aux
-INPUT pt1ch3lec3.aux
-INPUT pt1ch3lec3.aux
-INPUT .\pt1ch4lec4.aux
-INPUT pt1ch4lec4.aux
-INPUT pt1ch4lec4.aux
-INPUT .\pt1ch5lec5.aux
-INPUT pt1ch5lec5.aux
-INPUT pt1ch5lec5.aux
-INPUT .\pt1ch6lec6.aux
-INPUT pt1ch6lec6.aux
-INPUT pt1ch6lec6.aux
-INPUT .\pt2.aux
-INPUT pt2.aux
-INPUT pt2.aux
-INPUT .\formulas.aux
-INPUT formulas.aux
-INPUT formulas.aux
+INPUT .\pre\titlepageandtoc.aux
+INPUT pre\titlepageandtoc.aux
+INPUT pre\titlepageandtoc.aux
+INPUT .\pre\preface.aux
+INPUT pre\preface.aux
+INPUT pre\preface.aux
+INPUT .\pt1 geoff\pt1lecnote1.aux
+INPUT pt1 geoff\pt1lecnote1.aux
+INPUT pt1 geoff\pt1lecnote1.aux
+INPUT .\pt1 geoff\pt1lecnote2.aux
+INPUT pt1 geoff\pt1lecnote2.aux
+INPUT pt1 geoff\pt1lecnote2.aux
+INPUT .\pt1 geoff\pt1lecnote3.aux
+INPUT pt1 geoff\pt1lecnote3.aux
+INPUT pt1 geoff\pt1lecnote3.aux
+INPUT .\pt1 geoff\pt1lecnote4.aux
+INPUT pt1 geoff\pt1lecnote4.aux
+INPUT pt1 geoff\pt1lecnote4.aux
+INPUT .\pt1 geoff\pt1lecnote5.aux
+INPUT pt1 geoff\pt1lecnote5.aux
+INPUT pt1 geoff\pt1lecnote5.aux
+INPUT .\pt1 geoff\pt1lecnote6.aux
+INPUT pt1 geoff\pt1lecnote6.aux
+INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt3 supplement\pt3.aux
+INPUT pt3 supplement\pt3.aux
+INPUT pt3 supplement\pt3.aux
+INPUT .\pt3 supplement\pt3formulas.aux
+INPUT pt3 supplement\pt3formulas.aux
+INPUT pt3 supplement\pt3formulas.aux
+INPUT .\pre\preface.aux
+INPUT pre\preface.aux
+INPUT pre\preface.aux
 OUTPUT STAT2004 Notes.aux
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
@@ -1407,16 +1379,16 @@ INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-OUTPUT titlepageandtoc.aux
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT titlepageandtoc.tex
-INPUT .\titlepageandtoc.tex
-INPUT titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+OUTPUT pre\titlepageandtoc.aux
+INPUT .\pre\titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+INPUT pre\titlepageandtoc.tex
+INPUT .\pre\titlepageandtoc.tex
+INPUT pre\titlepageandtoc.tex
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2074.tfm
@@ -1499,84 +1471,84 @@ INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 OUTPUT STAT2004 Notes.toc
-INPUT .\preface.tex
-INPUT .\preface.tex
-INPUT .\preface.tex
-OUTPUT preface.aux
-INPUT .\preface.tex
-INPUT .\preface.tex
-INPUT .\preface.tex
-INPUT preface.tex
-INPUT .\preface.tex
-INPUT preface.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+OUTPUT pre\preface.aux
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT pre\preface.tex
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecxc1200.tfm
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-OUTPUT pt1ch1lec1.aux
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT pt1ch1lec1.tex
-INPUT .\pt1ch1lec1.tex
-INPUT pt1ch1lec1.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-OUTPUT pt1ch2lec2.aux
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT pt1ch2lec2.tex
-INPUT .\pt1ch2lec2.tex
-INPUT pt1ch2lec2.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+OUTPUT pt1 geoff\pt1lecnote1.aux
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote1.tex
+INPUT pt1 geoff\pt1lecnote1.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+OUTPUT pt1 geoff\pt1lecnote2.aux
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT pt1 geoff\pt1lecnote2.tex
+INPUT .\pt1 geoff\pt1lecnote2.tex
+INPUT pt1 geoff\pt1lecnote2.tex
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti0800.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0600.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti0600.tfm
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-OUTPUT pt1ch3lec3.aux
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT pt1ch3lec3.tex
-INPUT .\pt1ch3lec3.tex
-INPUT pt1ch3lec3.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-OUTPUT pt1ch4lec4.aux
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT pt1ch4lec4.tex
-INPUT .\pt1ch4lec4.tex
-INPUT pt1ch4lec4.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-OUTPUT pt1ch5lec5.aux
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT pt1ch5lec5.tex
-INPUT .\pt1ch5lec5.tex
-INPUT pt1ch5lec5.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-OUTPUT pt1ch6lec6.aux
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT pt1ch6lec6.tex
-INPUT .\pt1ch6lec6.tex
-INPUT pt1ch6lec6.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+OUTPUT pt1 geoff\pt1lecnote3.aux
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote3.tex
+INPUT pt1 geoff\pt1lecnote3.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+OUTPUT pt1 geoff\pt1lecnote4.aux
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote4.tex
+INPUT pt1 geoff\pt1lecnote4.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+OUTPUT pt1 geoff\pt1lecnote5.aux
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote5.tex
+INPUT pt1 geoff\pt1lecnote5.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+OUTPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT pt1 geoff\pt1lecnote6.tex
+INPUT .\pt1 geoff\pt1lecnote6.tex
+INPUT pt1 geoff\pt1lecnote6.tex
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
@@ -1587,57 +1559,70 @@ INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1200.tfm
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-OUTPUT pt2.aux
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-INPUT .\pt2.tex
-INPUT pt2.tex
-INPUT .\pt2.tex
-INPUT pt2.tex
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-OUTPUT formulas.aux
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-INPUT .\formulas.tex
-INPUT formulas.tex
-INPUT .\formulas.tex
-INPUT formulas.tex
+INPUT .\pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3.tex
+OUTPUT pt3 supplement\pt3.aux
+INPUT .\pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3.tex
+INPUT pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3.tex
+INPUT pt3 supplement\pt3.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+OUTPUT pt3 supplement\pt3formulas.aux
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT pt3 supplement\pt3formulas.tex
+INPUT .\pt3 supplement\pt3formulas.tex
+INPUT pt3 supplement\pt3formulas.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+OUTPUT pre\preface.aux
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT pre\preface.tex
+INPUT .\pre\preface.tex
+INPUT pre\preface.tex
 INPUT STAT2004 Notes.aux
-INPUT .\titlepageandtoc.aux
-INPUT titlepageandtoc.aux
-INPUT titlepageandtoc.aux
-INPUT .\preface.aux
-INPUT preface.aux
-INPUT preface.aux
-INPUT .\pt1ch1lec1.aux
-INPUT pt1ch1lec1.aux
-INPUT pt1ch1lec1.aux
-INPUT .\pt1ch2lec2.aux
-INPUT pt1ch2lec2.aux
-INPUT pt1ch2lec2.aux
-INPUT .\pt1ch3lec3.aux
-INPUT pt1ch3lec3.aux
-INPUT pt1ch3lec3.aux
-INPUT .\pt1ch4lec4.aux
-INPUT pt1ch4lec4.aux
-INPUT pt1ch4lec4.aux
-INPUT .\pt1ch5lec5.aux
-INPUT pt1ch5lec5.aux
-INPUT pt1ch5lec5.aux
-INPUT .\pt1ch6lec6.aux
-INPUT pt1ch6lec6.aux
-INPUT pt1ch6lec6.aux
-INPUT .\pt2.aux
-INPUT pt2.aux
-INPUT pt2.aux
-INPUT .\formulas.aux
-INPUT formulas.aux
-INPUT formulas.aux
+INPUT .\pre\titlepageandtoc.aux
+INPUT pre\titlepageandtoc.aux
+INPUT pre\titlepageandtoc.aux
+INPUT .\pre\preface.aux
+INPUT pre\preface.aux
+INPUT pre\preface.aux
+INPUT .\pt1 geoff\pt1lecnote1.aux
+INPUT pt1 geoff\pt1lecnote1.aux
+INPUT pt1 geoff\pt1lecnote1.aux
+INPUT .\pt1 geoff\pt1lecnote2.aux
+INPUT pt1 geoff\pt1lecnote2.aux
+INPUT pt1 geoff\pt1lecnote2.aux
+INPUT .\pt1 geoff\pt1lecnote3.aux
+INPUT pt1 geoff\pt1lecnote3.aux
+INPUT pt1 geoff\pt1lecnote3.aux
+INPUT .\pt1 geoff\pt1lecnote4.aux
+INPUT pt1 geoff\pt1lecnote4.aux
+INPUT pt1 geoff\pt1lecnote4.aux
+INPUT .\pt1 geoff\pt1lecnote5.aux
+INPUT pt1 geoff\pt1lecnote5.aux
+INPUT pt1 geoff\pt1lecnote5.aux
+INPUT .\pt1 geoff\pt1lecnote6.aux
+INPUT pt1 geoff\pt1lecnote6.aux
+INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt3 supplement\pt3.aux
+INPUT pt3 supplement\pt3.aux
+INPUT pt3 supplement\pt3.aux
+INPUT .\pt3 supplement\pt3formulas.aux
+INPUT pt3 supplement\pt3formulas.aux
+INPUT pt3 supplement\pt3formulas.aux
+INPUT .\pre\preface.aux
+INPUT pre\preface.aux
+INPUT pre\preface.aux
 INPUT .\STAT2004 Notes.out
 INPUT .\STAT2004 Notes.out
 INPUT STAT2004 Notes.run.xml

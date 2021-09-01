@@ -4,31 +4,34 @@
 
 %%% Include settings
 
-% \includeonly{pt1ch6lec6}
-
-%%% Before pushing
-
-\includeonly{titlepageandtoc,preface,pt1ch1lec1,pt1ch2lec2,pt1ch3lec3,pt1ch4lec4,pt1ch5lec5,pt1ch6lec6,pt2,formulas,}
+% \includeonly{pt1lecnote6}
 
 \begin{document}
 
-\include{titlepageandtoc}
-\include{preface}
+\subincludefrom{pre/}{titlepageandtoc}
+\subincludefrom{pre/}{preface}
 
-\part{Building on Lecture Notes}
+\part{Geoff's half of the course}
 
-\include{pt1ch1lec1}
-\include{pt1ch2lec2}
-\include{pt1ch3lec3}
-\include{pt1ch4lec4}
-\include{pt1ch5lec5}
-\include{pt1ch6lec6}
+\subincludefrom{pt1 geoff}{pt1lecnote1}
+\subincludefrom{pt1 geoff/}{pt1lecnote2}
+\subincludefrom{pt1 geoff/}{pt1lecnote3}
+\subincludefrom{pt1 geoff/}{pt1lecnote4}
+\subincludefrom{pt1 geoff/}{pt1lecnote5}
+\subincludefrom{pt1 geoff/}{pt1lecnote6}
+% \subincludefrom{pt1 geoff/}{pt1lec7}
+% \subincludefrom{pt1 geoff/}{pt1lec8}
+% \subincludefrom{pt1 geoff/}{pt1lec9}
 
-\include{pt2}
+\part{Alan's half of the course}
 
-\include{formulas}
+% \subincludefrom{pt2 alan/}{pt2lec1}
 
-\addcontentsline{toc}{chapter}{References}
-\printbibliography
+\part{Stuff from STAT2003 and such}
+
+\subincludefrom{pt3 supplement/}{pt3}
+\subincludefrom{pt3 supplement/}{pt3formulas}
+
+\subincludefrom{pre/}{preface}
 
 \end{document}
