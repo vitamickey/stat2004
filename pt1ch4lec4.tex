@@ -1,0 +1,21 @@
+\chapter[Lec 4: Some important probability density functions]{Lec 4: Some important \\probability density functions}
+
+
+\begin{tabular}{ |c|c||c|c|c|c|c|  }
+    \hline
+    \multicolumn{7}{|c|}{Some probability distributions} \\
+    \hline
+    Distribution & Notation & p.f./p.d.f. & \(x\in\) & \(\mathbb{E}(X)\)& \(\text{Var}(X)\) & PGF/MGF\\
+    \hline
+    Uniform & U\([a,b]\) & \(\frac{1}{b-a}\) & \([a,b]\) & \(\frac{a+b}{2}\) & \(\frac{\left(a-b\right)^2}{12}\) & \(\frac{e^{bs}-e^{as}}{s(b-a)}\)\\
+    % Beta & \(B(m_1,m_2)\)  & \(\binom{n}{x} p^x(1-p)^{n-x}\) & \(\{0,1, ..., n\}\) & \(np\) & \(np(1-p)\) & \((1 - p + zp)^n\)\\
+    Exponential & Exp\((\lambda)\) & \(\lambda e^{-\lambda x}\) & \(\mathbb{R}^+\) & \(\frac{1}{\lambda}\)& \(\frac{1}{\lambda^2}\) & \(\frac{\lambda}{\lambda - s}, s<\lambda\)\\
+    Normal, Gaussian & \(\mathcal{N}(\mu,\sigma^2)\) & \(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\right)\) & \(\mathbb{R}\) & \(\mu\)& \(\sigma^2\) & \(e^{s\mu+s^2\sigma^2/2}, s\in\mathbb{R}\)\\
+    % Gamma & \(\mathcal{N}(\mu,\sigma^2)\) & \(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\right)\) & \(\mathbb{R}\) & \(\mu\)& \(\sigma^2\) & \(e^{s\mu+s^2\sigma^2/2}, s\in\mathbb{R}\)\\
+    % Chi-squared & \(\mathcal{N}(\mu,\sigma^2)\) & \(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\right)\) & \(\mathbb{R}\) & \(\mu\)& \(\sigma^2\) & \(e^{s\mu+s^2\sigma^2/2}, s\in\mathbb{R}\)\\
+    % \(F\)- & \(\mathcal{N}(\mu,\sigma^2)\) & \(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\right)\) & \(\mathbb{R}\) & \(\mu\)& \(\sigma^2\) & \(e^{s\mu+s^2\sigma^2/2}, s\in\mathbb{R}\)\\
+    % \(t\)- & \(\mathcal{N}(\mu,\sigma^2)\) & \(\frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\right)\) & \(\mathbb{R}\) & \(\mu\)& \(\sigma^2\) & \(e^{s\mu+s^2\sigma^2/2}, s\in\mathbb{R}\)\\
+    \hline
+\end{tabular}
+
+note: needs fixing, I know. 

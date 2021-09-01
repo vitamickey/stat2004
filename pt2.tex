@@ -1,0 +1,158 @@
+
+\part{Background and basics}
+
+
+
+\chapter[Random experiments and probability models]{Random experiments and \\ probability models}
+
+\section{Random experiments}
+
+The basic notion in probability is that of a 
+\textbf{random experiment}: an experiment whose outcome 
+cannot be determined in advance, but is nevertheless 
+subject to analysis. Some examples of random experiments are: 
+
+\begin{enumerate}
+    \item tossing a die, 
+    \item counting the number of ducks walking along a lake in a given hour, or
+    \item measuring the length of 5 footlong subs purchased from a Subway.
+\end{enumerate}
+
+We wish to describe these experiments via a mathematical 
+model. This model consists of three building blocks: 
+a \textit{sample space}, a set of \textit{events} and 
+a \textit{probability}. We will now describe each of these building blocks. 
+
+\section{Sample spaces}
+
+Although we cannot predict the outcome of a random experiment 
+with certainty we usually can specify a set of possible outcomes. 
+This gives the first ingredient in our model for a random experiment. 
+
+\begin{definition}[Sample space]\label{defn:sample space}
+    The \textbf{sample space $\boldsymbol\Omega$} of a random experiment 
+    is the set of all possible outcomes of the experiment.
+\end{definition}
+
+The following are examples of random experiments with their sample spaces. 
+
+\begin{enumerate}
+    \item Casting two die consecutively, \[\Omega = \{(1,1),(1,2), ..., (1,6),(2,1),...,(6,6)\}.\]
+    \item The number of ducks that might walk past on a given day, \[\Omega =\{0,1,2,...\} = \mathbb{Z}^{\geq 0}.\]
+    \item The length of 5 footlong subs purchased from a Subway, \[\Omega = \{(x_1,...,x_5)\mid x_i\geq0, i=1,...,5\}.\]
+\end{enumerate}
+
+Note that for modelling purposes it is often easier to take the sample 
+space larger than necessary. For example, it is not likely for a footlong 
+sub to be 100m long even though the sample space would include this measurement, 
+and we would not expect 1000 ducks to walk past a regular lake. 
+
+\section{Events and sigma algebras}
+
+Often we are not interested in a single outcome but in whether 
+one of a \textit{group} of outcomes occurs. Such subsets 
+of the sample space are called \textbf{events}, denoted by \(A, B, C, ...\). 
+We say that event \(A\) occurs if the outcome of the experiment is one of the elements in \(A\). 
+\medskip
+Examples of events are:
+
+\begin{enumerate}
+    \item The event that the sum of two dice is 10 or more, \[A = \{(5,5),(5,6),(6,5),(6,6)\}.\]
+    \item The event that we see at most a dozen ducks today, \[A = \{0, 1, ..., 12\}.\]
+    \item The event that a Subway footlong is an acceptable length (in inches), \[A = [11.5,12.5].\]
+    \item The event that out of fifty selected people, 5 are left-handed, \[A = \{5\}.\]
+\end{enumerate}
+
+
+Whilst the notion of events is familiar, in order to further extend 
+the notion of events, we introduce the abstraction of sets of events, i.e. \textbf{sigma algebras}. 
+
+
+\begin{definition}[Sigma algebra]\label{defn:sigma algebra}
+    A \textbf{sigma algebra \(\mathcal{F}\)} is a collection of 
+    subsets of the sample space \(\Omega\) if:
+    \begin{enumerate}
+        \item \(\mathcal{F}\) is non-empty
+        \item \(A\in\mathcal{F}\Rightarrow A^c\in\mathcal{F}\)
+        \item \(A_1, A_2,...\in\mathcal{F}\Rightarrow \bigcup_{i=1}^\infty A_i\in\mathcal{F}\)
+    \end{enumerate}
+\end{definition}
+
+For an experiment we say that event \(A\) \textbf{occurs} if its outcome \(\boldsymbol\omega\)
+is an element of \(A\), i.e. \(\omega\in A\). 
+
+\begin{example}[Sigma algebras]
+    Some examples of sigma algebras include:
+    \begin{enumerate}
+        \item If \(\Omega\) is a sample space, the power set (the set of all 
+        subsets of a set where \(|\mathcal{P}(\Omega)|=2^{|\Omega|}\))
+        is an event space.
+        \item \(\{\varnothing, \Omega, \{1, 2\}, \{3, 4\}, ...\}\) when you throw a dice multiple times. 
+    \end{enumerate}
+\end{example}
+
+\begin{exercise}
+    Prove these.
+\end{exercise}
+
+In the context of sigma algebras, an event is an element of 
+a sigma algebra and itself is a set. So, we can apply our usual set operations:
+
+\bigskip
+For \(A,B\in\mathcal{F},\)
+
+\begin{enumerate}
+    \item the set \(A\cup B\) (\(A\) \textbf{union} \(B\)) is the event that either \(A\) \textit{or} \(B\) occur,
+    \item the set \(A\cap B\) (\(A\) \textbf{intersection} \(B\)) is the event that \(A\) \textit{and} \(B\) both occur,
+    \item the event \(A^c\) (\(A\) \textbf{complement}) is the event that \(A\) does \textit{not} occur, and
+    \item if \(A\subset B\) (\(A\) is a \textbf{subset} of \(B\)) then event \(A\) is said to \textit{imply} event \(B\).
+\end{enumerate}
+
+Two events \(A\) and \(B\) which have no outcomes in common, i.e. \(A\cap B=\varnothing\), 
+are called \textbf{disjoint} events. 
+
+\medskip
+
+% Some additional properties of (finite) event sets include:
+
+% \begin{enumerate}
+%     \item If \(A_1, ..., A_n\in\mathcal{F} \Rightarrow \bigcup_{i=1}^n A_i\in\mathcal{F}\)\\
+%     \item \(\varnothing, \Omega \in\mathcal{F} \). 
+% \end{enumerate}
+
+
+Sigma algebras are useful as they allow us to investigate 
+larger collections of events and their properties in a 
+nicely defined context. With them, we can discuss 
+events more generally and establish 
+rigorous definitions and axioms for probability measures. 
+
+\section{Probability}
+
+\begin{definition}[Probability]\label{defn:probability}
+    A probability \(\mathbb{P}\) is a rule (function) which assigns 
+    a positive number to each event and satisfies the following axioms:\\
+    Axiom 1: \(\mathbb{P}(A)\geq0 \forall A\in\mathcal{F}\)\\
+    Axiom 2: \(\mathbb{P}(\Omega)=1\)\\
+    Axiom 3: For any sequence \(A_1,A_2,...\) of \textit{disjoint} events we have
+    \[\mathbb{P}(\bigcup_{i}A_i) = \sum_i \mathbb{P}(A_i)\tag{1.3}.\]
+\end{definition}
+
+\section{Conditional probability and independence}
+
+\subsection{Chain rule}
+
+\begin{theorem}[Baye's Theorem]
+    Wow it's Baye's!
+\end{theorem}
+
+See \ref{thm:Baye's}
+
+\subsection{Law of total probability and Baye's theorem}
+
+
+% \begin{example}[Diagnostic testing]\label{eg:diagnostic testing}
+    
+% \end{example}
+
+\subsection{Independence}

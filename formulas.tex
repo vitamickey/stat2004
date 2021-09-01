@@ -1,0 +1,81 @@
+% \chapter{Formulas}
+
+% \(\mathbb{P}\)
+
+% \begin{enumerate}
+%     \item \(\mathbb{P}(A^c)=1-\mathbb{P}(A)\)
+%     \item Inclusion-exclusion (2 sets): \(\mathbb{P}(A\cup B)=\mathbb{P}(A)+\mathbb{P}(B)\mathbb{P}(A\cap B)\)
+%     \item De Morgan’s laws: \(\mathbb{P}(A^c\cup B^c)=\mathbb{P}(A\B)c,\mathbb{P}(A^c\B^c)=\mathbb{P}(A\cupB)c\)
+%     \item Conditional probability: \(\mathbb{P}(A|B)=\mathbb{P}(A\B)\mathbb{P}(B)\)
+%     \item Law of total probability:\mathbb{P}(A)=Pni=1P(A|Bi)\mathbb{P}(Bi),B1,...,Bnpartition of 
+%     \item Bayes’ Rule:\mathbb{P}(Bj|A)=\mathbb{P}(A|Bj)\mathbb{P}(Bj)Pni=1P(A|Bi)\mathbb{P}(Bi)
+%     \item Sum rule:\mathbb{P}(A)=Pni=1P(A\Bi)
+%     \item Product rule:\mathbb{P}(A1···An)=\mathbb{P}(A1)\mathbb{P}(A2|A1)···P(An|A1···An1)
+%     \item Ai independent()8k, and any choice ofi1,...,ik,\mathbb{P}(Ai1\Ai2\···\Aik=\mathbb{P}(Ai1)\mathbb{P}(Ai2)···P(Aik)
+%     \item CDF ofX:F(x)=\mathbb{P}(Xx)=Rx1f(u)du, x2R
+%     \item CDF properties, limx!1F(x)=1,limx!1F(x)=0,\mathbb{P}(a<Xb)=F(b)F(a)=Rbaf(u)du
+%     \item Pdf ofX:f(x)=F0(x),R11f(x)dx=1 
+%     \item Pmf ofX:f(x)=\mathbb{P}(X=x)
+%     \item 
+% \end{enumerate}
+
+% For discrete X,\mathbb{P}(X2B)=\mathbb{P}x2B\mathbb{P}(X=x)i.\mathbb{E}.\mathbb{P}(X={1,2})=\mathbb{P}2x=1\mathbb{P}(X=x)
+% Expectation (discrete)\mathbb{E}[g(X)] =\mathbb{P}xg(x)\mathbb{P}(X=x)=\mathbb{P}xg(x)f(x)
+% Expectation (continuous)\mathbb{E}[g(X)] =R11g(x)f(x)dx
+
+% Properties of Expectation, Variance and Covariance
+
+% \mathbb{E}[aX+b]=aE[X]+b
+% \mathbb{E}[h(X)+g(X)] =\mathbb{E}[h(X)] +\mathbb{E}[g(X)]
+% X, Yindependent =)EXY=EXEY
+% \mathbb{E}[Y]=\mathbb{E}[\mathbb{E}[Y|X]] - Tower property
+% \mathbb{E}[Yg(X)|X]=g(X)\mathbb{E}[Y|X]
+% \text{Var}(X)=\mathbb{E}(XEX)2=EX2(EX)2
+% \text{Var}(aX+b)=a2\text{Var}(X)
+% \text{Var}(X+Y) = \text{Var}(X) + \text{Var}(Y) + 2Cov(X, Y)
+% \text{Cov}(X, Y)=\mathbb{E}(XEX)(YEY)=EXYEXEY
+% \text{Cov}(aX+bY, cU+dV)=acCov(X, U)+adCov(X, V)+bcCov(Y, U)+bdCov(Y, V)
+% \text{Cov}(X, X) = \text{Var}(X)
+% \text{Cov}(X, Y)=\text{Cov}(Y, X)
+% \text{Cov}(X+a, Y+b)=\text{Cov}(X, Y)
+% XandYindependent()\text{Cov}(X, Y)=016.
+
+% \begin{tabular}{ |c||c|c|c|c|c|  }
+%     \hline
+%     \multicolumn{6}{|c|}{Important discrete distributions} \\
+%     \hline
+%     Distribution & p.f. & \(x\in\) & \(\mathbb{E}(X)\)& \(\text{Var}(X)\) & PGF\\
+%     \hline
+%     Ber\((p)\)  & \(p^x(1-p)^{1-x}\) & \(\{0,1\}\) & \(p\) & \(p(1-p)\) & 1 - p + zp\\
+%     Bin\((n,p)\)  & \(\binom{n}{x} p^x(1-p)^{n-x}\) & \(\{0,1, ..., n\}\) & \(np\) & \(np(1-p)\) & (1 - p + zp)^n\\
+%     Geom\((p)\) & \(p(1-p)^{x-1}\) & \(\{1,2, ...\}\) & \(\frac{1}{p}\)& \(\frac{1-p}{p^2}\) & \frac{zp}{1-z(1-p)}\\
+%     Geom\((p)\) & \(p(1-p)^{x-1}\) & \(\{1,2, ...\}\) & \(\frac{1}{p}\)& \(\frac{1-p}{p^2}\) & \frac{zp}{1-z(1-p)}\\
+%     \hline
+% \end{tabular}
+
+   
+
+% Important discrete distributions
+% Distributionpmfx2EX \text{Var}(X)pgf
+% px(1p)1x{0,1}pp(1p)1p+zpBin(n, \mathbb{P})nxpx(1p)nx{0,1,...,n}npnp(1p)(1p+zp)nPoi()exx!{0,1,...}\mathbb{E}(1z)Geom(\mathbb{P})\mathbb{P}(1p)x1{1,2,...}1p1pp2zp1z(1p)Hyp(n, r, N)(rx)(Nrnx)(Nn){0,...,n}nrNnrN(Nr)NNnN120
+
+
+% Important continuous distributions
+% Distributionpdfcdfx2\mathbb{E}X\text{Var}(X)mgfU[a, b]1baxaba[a, b]a+b2(ba)212ebseass(ba)Exp()ex1exR+112s,s<Gamma(↵, )↵x↵1ex(↵)R+↵↵2⇣s⌘↵,s<N(μ, 2)1p2⇡e12(xμ)2Rμ2esμ+s22/2,s2R18.\mathbb{P}robability generating functionsG(z)=\mathbb{E}zx=\mathbb{P}1x=0zx\mathbb{P}(X=x) and\mathbb{P}(X=x)=1x!G(x)(0)19.Properties of pgf,\mathbb{E}X=G0(1), \text{Var}(X)=G00(1) +G0(1)(G0(1))220.Moment generating functions,MX(s)=\mathbb{E}esX,MX(s)=\mathbb{P}1i=1esxif(xi)=R11esxfX(x)dx21.Properties of mgf,\mathbb{E}Xn=M(n)(0),\text{Var}(X)=M00(0)(M0(0))2,MX+Y(t)=MX(t)MY(t),8t,ifX, Yindependent.22.Inverse transform method, to generateXwith cdfF,drawU⇠U(0,1) and setX=F1(U)23.Acceptance rejection method, to generateZ⇠f, generateX⇠gandY⇠U(0,Cg(X)), ifYf(x), returnZ=X, otherwise return to step 1.24.Eciency of acceptance rejection method,\mathbb{P}((X, Y) is accepted) =1C25.Linear transformation,fZ(z)=fX(A1z)|A|26.General transformation,z=g(x),fZ(z)=fX(x)|det(Jx(g))|=fX(x)|det(Jx(g1))|, for 1d,Jx(g)=g0(x)27.\mathbb{P}((X, Y)2B)=RRBfX,Y(x, y)dxdy28.Marginal from joint pdf,fX(x)=R1y=1fX,Y(x, y)dy29.Conditional pmf/pdf,fY|X(y|x)=fX,Y(x,y)fX(x),y2R30.Independent random variables (discrete),\mathbb{P}(X1=x1,...,Xn=xn)=Qnk=1\mathbb{P}(Xk=xk)31.Independent random variables (continuous),fX1,...,Xn(x1,...,xn)=Qnk=1fXk(xk)32.\mathbb{E}(g(X1,...,Xn)) =\mathbb{P}x1···\mathbb{P}xng(x1,...,xn)f(x1,...,xn)=R11R11g(x1,...,xn)f(x1,...,xn)dx1...dxn33.\mathbb{E}[Y|X=x]=\mathbb{P}yy\mathbb{P}(Y=y|X=x)=R11yfY|X(y|x)dy34.Referring to 33, if we instead have\mathbb{E}[Y|X], replacexwithXin the final answer.35.Markov inequality,\mathbb{P}(Xx)\mathbb{E}Xx36.Memoryless property (Exp and Geom distribution):\mathbb{P}(X>s+t|X>s)=\mathbb{P}(X>t),8s, t37.Xi⇠(μi,2i),i=1,2,...,n(independent),a+\mathbb{P}ni=1biXi⇠Na+\mathbb{P}ni=1biμi,\mathbb{P}ni=1b2i2i38.Pdf of the multivariate normal distribution,fZ(z)=1p(2⇡)n|⌃|e12(zμ)T⌃1(zμ), ⌃covariance matrix,μmean vector.39.IfXis a column vector with independentN(0,1) components, andBis a matrix with ⌃=BBT(such aBcan be found), thenZ=μ+BXhas a multivariate normal distribution with mean vectorμand covariancematrix⌃.40.IfXhas expectation vectorμXand covariance matrix⌃XandZ=AX,thenμZ=AμXand⌃Z=A⌃XAT41.Law of large numbers, for largen,1n\mathbb{P}ni=1Xi!\mathbb{E}[Xi]21
+
+
+% Weak law of large numbers,8✏>0,limn!1\mathbb{P}✓Snnμ✏◆=0
+% Strong law of large numbers,\mathbb{P}✓limn!1Snn=μ◆=
+% Central limit theorem, for largen,nXi=1Xi=Snapprox⇠N(\mathbb{E}[Sn],\text{Var}(Sn)) =N(n\mathbb{E}[Xi],n\text{Var}(Xi))limn!1\mathbb{P}✓Snnμpnx◆=(x)
+% Normal approximation to Binomial, IfX⇠Bin(n, \mathbb{P}), then, for largen,\mathbb{P}(Xk)⇡\mathbb{P}(Yk), whereY⇠N(np, np(1p))
+% n-step probabilities,\mathbb{P}(Xn=j|X0=i)=\mathbb{P}n(i, j)
+% Limiting distribution,⇡=⇡\mathbb{P},⇡j0,\mathbb{P}j⇡j= 1, limn!1\mathbb{P}n(i, j)=⇡j
+% Structure/system function (series, parallel),s='(x)=Qni=1xi,1(1x1)···(1xn)
+% Reliability function,r(\mathbb{P})=\mathbb{E}'(X)
+% CDF of system lifetime,F(t)=1r(1F1(t),...,1Fn(t))
+% Expected lifetime,\mathbb{E}T=R10R(t)dt=R101F(t)dt,Ris the survival function.
+% Failure rate,h(t)=f(t)1F(t),t0
+% R(t)=eRt0h(u)du
+% function: (↵)=R10u↵1eudu, ↵>0, (↵+1) =↵(↵),a2R+,(n)=(n1)!,n=1,2,....(1/2) =p⇡
+% Jacobian: Letx=(x1,...,xn) andg(x)=(g1(x),...,gn(x)). The matrix of Jacobi has entries (@gi/@xj).The corresponding determinant is called the Jacobian.
+% Correlation coecient,⇢(X, Y)=\text{Cov}(X,Y)p\text{Var}(X)p\text{Var}(Y),1⇢(X, Y)122 

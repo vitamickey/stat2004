@@ -1,0 +1,77 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{3}{chapter*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}Building on Lecture Notes}{5}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Lec 1: Introduction to statistical inference}{6}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Lec 2: Some examples in calculating probabilities with rolling of dice}{7}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Is probability easier now than in 1560? (Carden's Counting)}{7}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Combinatorics}{7}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Efron's Dice}{7}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Lec 3: Examples using Baye's theorem}{8}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Lec 4: Some important probability density functions}{9}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Lec 5: Examples of inference from Efron}{10}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Lec 6: Point estimation}{11}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Introduction}{11}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Estimate and estimator}{11}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Unbiased estimators}{11}{subsection.6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Method of Moments}{12}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Likelihood function}{12}{section.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Motivation and intuition}{12}{subsection.6.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}The meat}{12}{subsection.6.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Regularity conditions (I)}{14}{section.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.1}Cram\'{e}r-Rao lower bound}{14}{subsection.6.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Regular exponential family}{16}{section.6.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.1}Parameter space}{16}{subsection.6.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.7}UMVU estimators}{16}{section.6.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.8}Maximum Likelihood Method (ML)}{17}{section.6.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.9}Sufficiency}{17}{section.6.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.10}Rao-Blackwell Theorem}{17}{section.6.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10.1}Theorem 2.}{18}{subsection.6.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}Background and basics}{19}{part.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Random experiments and probability models}{20}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Random experiments}{20}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Sample spaces}{20}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Events and sigma algebras}{21}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Probability}{22}{section.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}Conditional probability and independence}{22}{section.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.1}Chain rule}{22}{subsection.7.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{22}{subsection.7.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5.3}Independence}{22}{subsection.7.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{23}{subsection.7.5.3}%

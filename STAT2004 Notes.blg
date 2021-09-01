@@ -1,0 +1,16 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'STAT2004 Notes.blg'
+[225] biber-MSWIN64:340> INFO - === 
+[322] Biber.pm:415> INFO - Reading 'STAT2004 Notes.bcf'
+[646] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[685] Biber.pm:4340> INFO - Processing section 0
+[709] Biber.pm:4531> INFO - Looking for bibtex format file 'refs.bib' for section 0
+[815] bibtex.pm:1689> INFO - LaTeX decoding ...
+[869] bibtex.pm:1494> INFO - Found BibTeX data source 'refs.bib'
+[982] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[982] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[982] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[982] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[982] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[992] bbl.pm:654> INFO - Writing 'STAT2004 Notes.bbl' with encoding 'UTF-8'
+[1000] bbl.pm:757> INFO - Output to STAT2004 Notes.bbl
