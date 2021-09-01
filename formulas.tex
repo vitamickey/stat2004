@@ -5,13 +5,13 @@
 \begin{enumerate}
     \item \(\mathbb{P}(A^c)=1-\mathbb{P}(A)\)
     \item Inclusion-exclusion (2 sets): \(\mathbb{P}(A\cup B)=\mathbb{P}(A)+\mathbb{P}(B)\mathbb{P}(A\cap B)\)
-    \item De Morgan’s laws: \(\mathbb{P}(A^c\cup B^c)=\mathbb{P}(A\B)c,\mathbb{P}(A^c\B^c)=\mathbb{P}(A\cupB)c\)
-    \item Conditional probability: \(\mathbb{P}(A|B)=\mathbb{P}(A\B)\mathbb{P}(B)\)
+    \item De Morgan’s laws: \(\mathbb{P}(A^c\cup B^c)=\mathbb{P}(A\cap B)^c, \mathbb{P}(A^c\cap B^c)=\mathbb{P}(A\cup B)^c\)
+    \item Conditional probability: \(\mathbb{P}(A|B)=\mathbb{P}(A\cap B)\mathbb{P}(B)\)
     \item Law of total probability: \(\mathbb{P}(A)=\sum_{i=1}^n \mathbb{P}(A|B_i)\mathbb{P}(B_i),\) given \(B_1,...,B_n\) is a partition of \(\Omega\)
     \item Bayes’ Rule: \(\mathbb{P}(B_j|A)=\mathbb{P}(A|B_j)\mathbb{P}(B_j)Pni=1P(A|B_i)\mathbb{P}(B_i)\)
     \item Sum rule: \(\mathbb{P}(A)=\sum_{i=1}^n P(A\cap B_i)\)
-    \item Product rule: \(\mathbb{P}(A_1···A_n)=\mathbb{P}(A_1)\mathbb{P}(A_2|A_1)···P(A_n|A_1···A_{n-1})\)
-    \item \(A_i\) independent \(\iff\) \(\forall k\) and any choice of \(i_1,...,i_k\), \(\mathbb{P}(A_i_1 \cap A_i_2 \cap ··· \capA_i_k)=\mathbb{P}(A_i_1)\mathbb{P}(A_i_2)···P(A_i_k)\)
+    \item Product rule: \(\mathbb{P}(A_1... A_n)=\mathbb{P}(A_1)\mathbb{P}(A_2|A_1)...P(A_n|A_1...A_{n-1})\)
+    \item \(A_i\) independent \(\iff\) \(\forall k\) and any choice of \(i_1,...,i_k\), \(\mathbb{P}(A_{i_1} \cap A_{i_2} \cap... \cap A_{i_k})=\mathbb{P}(A_{i_1})\mathbb{P}(A_{i_2})...\mathbb{P}(A_{i_k})\)
     \item CDF of \(X\): \(F(x)=\mathbb{P}(X\leq x)=\int_{-\infty}^{x} f(u)du, x\in \mathbb{R}\)
     \item CDF properties: \(\underset{x\to\infty}{\lim} F(x)=1, \underset{x\to-\infty}{\lim} F(x)=0, \mathbb{P}(a<X\leq b)=F(b)- F(a) = \int_b^a f(u)du\)
     \item Pdf of \(X\): \(f(x)=F'(x), \int_{-\infty}^{\infty} f(x)dx=1\)
@@ -45,8 +45,8 @@
     Distribution & pmf & \(x\in\) & \(\mathbb{E}(X)\)& \(\text{Var}(X)\) & PGF\\
     \hline
     Ber\((p)\)  & \(p^x(1-p)^{1-x}\) & \(\{0,1\}\) & \(p\) & \(p(1-p)\) & 1 - p + zp\\
-    Bin\((n,p)\)  & \(\binom{n}{x} p^x(1-p)^{n-x}\) & \(\{0,1, ..., n\}\) & \(np\) & \(np(1-p)\) & (1 - p + zp)^n\\
-    Geom\((p)\) & \(p(1-p)^{x-1}\) & \(\{1,2, ...\}\) & \(\frac{1}{p}\)& \(\frac{1-p}{p^2}\) & \frac{zp}{1-z(1-p)}\\
+    Bin\((n,p)\)  & \(\binom{n}{x} p^x(1-p)^{n-x}\) & \(\{0,1, ..., n\}\) & \(np\) & \(np(1-p)\) & \((1 - p + zp)^n\)\\
+    Geom\((p)\) & \(p(1-p)^{x-1}\) & \(\{1,2, ...\}\) & \(\frac{1}{p}\)& \(\frac{1-p}{p^2}\) & \(\frac{zp}{1-z(1-p)}\)\\
     Hyp\((n,r,N)\) & \(\frac{\binom{r}{x}\binom{N-r}{n-x}}{\binom{N}{n}}\) & \(\{0,1,...\}\) & \(n\frac{r}{N}\)& \(n\frac{r}{N} \frac{(N-r)}{N} \frac{N-n}{N-1}\) & \\
     \hline
 \end{tabular}

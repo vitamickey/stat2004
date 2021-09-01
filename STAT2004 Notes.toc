@@ -42,36 +42,40 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.6}Regular exponential family}{16}{section.6.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.6.1}Parameter space}{16}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.1}Complete???}{16}{subsection.6.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6.2}Parameter space}{16}{subsection.6.6.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.7}UMVU estimators}{16}{section.6.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.8}Maximum Likelihood Method (ML)}{17}{section.6.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.9}Sufficiency}{17}{section.6.9}%
+\contentsline {section}{\numberline {6.9}Sufficiency}{18}{section.6.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.10}Rao-Blackwell Theorem}{17}{section.6.10}%
+\contentsline {section}{\numberline {6.10}Rao-Blackwell Theorem}{18}{section.6.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.10.1}Theorem 2.}{18}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.1}Theorem 2.}{19}{subsection.6.10.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{II\hspace {1em}Background and basics}{19}{part.2}%
+\contentsline {part}{II\hspace {1em}Background and basics}{20}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Random experiments and probability models}{20}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Random experiments and probability models}{21}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Random experiments}{20}{section.7.1}%
+\contentsline {section}{\numberline {7.1}Random experiments}{21}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Sample spaces}{20}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Sample spaces}{21}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Events and sigma algebras}{21}{section.7.3}%
+\contentsline {section}{\numberline {7.3}Events and sigma algebras}{22}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Probability}{22}{section.7.4}%
+\contentsline {section}{\numberline {7.4}Probability}{23}{section.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}Conditional probability and independence}{22}{section.7.5}%
+\contentsline {section}{\numberline {7.5}Conditional probability and independence}{23}{section.7.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.1}Chain rule}{22}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.1}Chain rule}{23}{subsection.7.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{22}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{23}{subsection.7.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.3}Independence}{22}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.3}Independence}{23}{subsection.7.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{23}{subsection.7.5.3}%
+\contentsline {chapter}{\numberline {8}Formulas}{24}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{26}{Item.38}%
