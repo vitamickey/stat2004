@@ -5,7 +5,7 @@
 
 Suppose we have a set of random variables \(\bm{X}_1, ..., \bm{X}_n\) and 
 their observed values \(\bm{x}_1, ..., \bm{x}_n\). We say that these are 
-independently and identically distributed with a common p.f. or p.d.f. \(f(\bm{x};\bm{\theta})\), 
+independently and identically distributed with a common pmf or pdf \(f(\bm{x};\bm{\theta})\), 
 i.e. 
 
 \[\bm{X}_1, ..., \bm{X}_n \overset{\text{i.i.d.}}{\sim} F_{\bm{\theta}}\]
@@ -80,8 +80,8 @@ This is where we get the idea of \textbf{"maximum likehood"} (see section \ref{s
 
 \subsection{The meat}
 How do we even start to think about implementing this practically?
-Going back to our motivation, suppose we have a random sample of i.i.d. \(\bm{X}_1,...,\bm{X}_n\) with the joint p.f. or p.d.f. \(f_{\bm{X}_1,...,\bm{X}_n}(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\). 
-Our \textbf{likelihood function} is basically the joint p.f./p.d.f. with a different name and notation, defined as follows:
+Going back to our motivation, suppose we have a random sample of i.i.d. \(\bm{X}_1,...,\bm{X}_n\) with the joint pmf or pdf \(f_{\bm{X}_1,...,\bm{X}_n}(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\). 
+Our \textbf{likelihood function} is basically the joint pmf/pdf with a different name and notation, defined as follows:
 
 \begin{definition}[Likelihood function]\label{defn:likelihood func}
     The \textbf{likelihood function} for a set of i.i.d. random variables is given by
@@ -91,7 +91,7 @@ Our \textbf{likelihood function} is basically the joint p.f./p.d.f. with a diffe
 \end{definition}
 
 Notice that we don't tend to write that the function considers \(\bm{x}_1,...,\bm{x}_n\) as variables. 
-Whilst we consider the joint p.f. or p.d.f. as a function primarily of the observed values of our random sample, i.e. a function of \(\bm{x}_1,...,\bm{x}_n\), and also a function of \(\bm{\theta}\), we consider \(L(\bm{\theta})\) as a function of \(\bm{\theta}\) as the variable of interest, given that we already have \(\bm{x}_1,...,\bm{x}_n\), i.e. these values are not "varying".
+Whilst we consider the joint pmf or pdf as a function primarily of the observed values of our random sample, i.e. a function of \(\bm{x}_1,...,\bm{x}_n\), and also a function of \(\bm{\theta}\), we consider \(L(\bm{\theta})\) as a function of \(\bm{\theta}\) as the variable of interest, given that we already have \(\bm{x}_1,...,\bm{x}_n\), i.e. these values are not "varying".
 Alternatively, we consider \(L(\bm{\theta})\) as a realisation of the random variable \(L(\bm{\theta};\bm{X}_1,...,\bm{X}_n)\).
 We just consider the likelihood function as a function of \(\bm{\theta}\) since we are only interested in maximising \(L(\bm{\theta})\) by finding the best value of \(\bm{\theta}\) for the job. 
 
@@ -160,7 +160,7 @@ Anyway, given this, we have the following result which is technically a theorem?
 % as a a realisation of the random variable \(L(\bm{\theta};\bm{X}_1, ..., \bm{X}_n)\). 
 % I gather that the likelihood function can be thought about as one 
 % where the parameters are more of interest than 
-% in the joint p.f. or p.d.f. where the observations are of interest and the 
+% in the joint pmf or pdf where the observations are of interest and the 
 % parameters are set. 
 
 
@@ -251,7 +251,7 @@ Consider the case where we have \(p\)-dimensional observations, \(\bm{x}_1,...,\
 a \(d\)-dimensional parametor vector \(\bm{\theta}\), 
 and a \(q\)-dimensional sufficient statistic \(\bm{T}(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\) where \(q\geq d\). 
 The likelihood function \(L(\bm{\theta})\) or equivalently the joint 
-p.f. or p.d.f. \(f(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\) belongs to the 
+pmf or pdf \(f(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\) belongs to the 
 \textbf{\(d\)-parameter exponential family} if it has the form
 
 \begin{equation}\label{eq:exp family}
@@ -386,15 +386,15 @@ the following theorem.
 % \end{theorem}
 
 \begin{theorem}[Fisher-Neyman factorisation theorem]\label{thm: Factorisation Theorem}
-    Given the random variables \(\bm{X}_1,...,\bm{X}_n\) with joint p.f. or p.d.f. \(f(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\). 
-    A statistic \(\bm{T}\) is \textbf{sufficient} for \(\bm{\theta}\) if and only if the joint p.f. or p.d.f. can be written as 
+    Given the random variables \(\bm{X}_1,...,\bm{X}_n\) with joint pmf or pdf \(f(\bm{x}_1,...,\bm{x}_n;\bm{\theta})\). 
+    A statistic \(\bm{T}\) is \textbf{sufficient} for \(\bm{\theta}\) if and only if the joint pmf or pdf can be written as 
     \[f(\bm{x}_1,...,\bm{x}_n;\bm{\theta}) = h_1(\bm{T}(\bm{x}_1,...,\bm{x}_n;\bm{\theta});\bm{\theta})
     h_2(\bm{x}_1,...,\bm{x}_n;\bm{\theta}), \forall\bm{\theta}\in\Omega\]
 \end{theorem}
 
 
 
-So, if we are able to find such a factorisation for a joint p.f. or p.d.f., 
+So, if we are able to find such a factorisation for a joint pmf or pdf, 
 the \(\bm{T}\) we have found is a sufficient statistic. 
 
 
@@ -403,7 +403,7 @@ the \(\bm{T}\) we have found is a sufficient statistic.
 \textit{From page 30.}
 
 \begin{theorem}[Theorem 1 (Rao-Blackwell)]\label{thm:Rao-Blackwell}
-    Let \(\bm{X}\) be a random variable with a p.f. or p.d.f. \(f(x;\bm{\theta})\) and suppose that \(\bm{T}\) is a complete, sufficient statistic for \(\theta\). 
+    Let \(\bm{X}\) be a random variable with a pmf or pdf \(f(x;\bm{\theta})\) and suppose that \(\bm{T}\) is a complete, sufficient statistic for \(\theta\). 
     If \(U(\bm{T})\) is an unbiased estimator of \(\theta\) with finite variance, 
     then, \(U(\bm{T})\) is a UMVU estimator of \(\theta\) and it is unique (see Geoff's notes for particularities).
 \end{theorem}
@@ -411,7 +411,10 @@ the \(\bm{T}\) we have found is a sufficient statistic.
 \subsection{Theorem 2.}\label{sec:thm 2 UMVU}
 
 \begin{theorem}[Theorem 2]\label{thm:thm 2 UMVU}
-    Let \(\bm{X}\) be a random variable with a p.f. or p.d.f. \(f(x;\bm{\theta})\) and suppose that \(\bm{T}\) is a complete, sufficient statistic for \(\theta\). 
+    Let \(\bm{X}\) be a random variable with a pmf or pdf \(f(x;\bm{\theta})\) and suppose that \(\bm{T}\) is a complete, sufficient statistic for \(\theta\). 
     If \(U(\bm{T})\) is an unbiased estimator of \(\theta\) with finite variance, 
     then, \(U(\bm{T})\) is a UMVU estimator of \(\theta\) and it is unique (see Geoff's notes for particularities).
 \end{theorem}
+
+
+
