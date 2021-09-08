@@ -1278,6 +1278,9 @@ INPUT pt1 geoff\pt1lecnote5.aux
 INPUT .\pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt2 alan\w7.aux
+INPUT pt2 alan\w7.aux
+INPUT pt2 alan\w7.aux
 INPUT .\pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
@@ -1559,6 +1562,30 @@ INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cme
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1200.tfm
+INPUT .\pt2 alan\w7.tex
+INPUT .\pt2 alan\w7.tex
+INPUT .\pt2 alan\w7.tex
+OUTPUT pt2 alan\w7.aux
+INPUT .\pt2 alan\w7.tex
+INPUT .\pt2 alan\w7.tex
+INPUT .\pt2 alan\w7.tex
+INPUT pt2 alan\w7.tex
+INPUT .\pt2 alan\w7.tex
+INPUT pt2 alan\w7.tex
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT .\pt3 supplement\pt3.tex
 INPUT .\pt3 supplement\pt3.tex
 INPUT .\pt3 supplement\pt3.tex
@@ -1614,6 +1641,9 @@ INPUT pt1 geoff\pt1lecnote5.aux
 INPUT .\pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt2 alan\w7.aux
+INPUT pt2 alan\w7.aux
+INPUT pt2 alan\w7.aux
 INPUT .\pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
@@ -1627,6 +1657,12 @@ INPUT .\STAT2004 Notes.out
 INPUT .\STAT2004 Notes.out
 INPUT STAT2004 Notes.run.xml
 OUTPUT STAT2004 Notes.run.xml
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
 INPUT C:\Users\micha\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
@@ -1669,6 +1705,8 @@ INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmib10.pfb
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmmib8.pfb
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmmib8.pfb
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\micha\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb

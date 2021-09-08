@@ -1,16 +1,16 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [1] Config.pm:314> INFO - Logfile is 'STAT2004 Notes.blg'
-[438] biber-MSWIN64:340> INFO - === 
-[596] Biber.pm:415> INFO - Reading 'STAT2004 Notes.bcf'
-[1213] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
-[1253] Biber.pm:4340> INFO - Processing section 0
-[1285] Biber.pm:4531> INFO - Looking for bibtex format file 'refs.bib' for section 0
-[1452] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1481] bibtex.pm:1494> INFO - Found BibTeX data source 'refs.bib'
-[1844] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1844] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1844] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[1845] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[1845] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[1876] bbl.pm:654> INFO - Writing 'STAT2004 Notes.bbl' with encoding 'UTF-8'
-[1907] bbl.pm:757> INFO - Output to STAT2004 Notes.bbl
+[296] biber-MSWIN64:340> INFO - === 
+[386] Biber.pm:415> INFO - Reading 'STAT2004 Notes.bcf'
+[878] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[904] Biber.pm:4340> INFO - Processing section 0
+[923] Biber.pm:4531> INFO - Looking for bibtex format file 'refs.bib' for section 0
+[1011] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1031] bibtex.pm:1494> INFO - Found BibTeX data source 'refs.bib'
+[1126] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1126] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1126] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1126] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1126] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1133] bbl.pm:654> INFO - Writing 'STAT2004 Notes.bbl' with encoding 'UTF-8'
+[1137] bbl.pm:757> INFO - Output to STAT2004 Notes.bbl

@@ -1,6 +1,6 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{28}{chapter*.3}%
+\contentsline {chapter}{Preface}{33}{chapter*.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{I\hspace {1em}Geoff's half of the course}{5}{part.1}%
 \defcounter {refsection}{0}\relax 
@@ -72,26 +72,40 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{II\hspace {1em}Alan's half of the course}{21}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{III\hspace {1em}Stuff from STAT2003 and such}{22}{part.3}%
+\contentsline {chapter}{\numberline {7}Week 7}{22}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Random experiments and probability models}{23}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Week 7 Lecture 1}{22}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Random experiments}{23}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Margin of error and level of confidence}{22}{subsection.7.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Sample spaces}{23}{section.7.2}%
+\contentsline {subsection}{\numberline {7.1.2}Pivot quantities}{23}{subsection.7.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Events and sigma algebras}{24}{section.7.3}%
+\contentsline {section}{\numberline {7.2}Week 7 Lecture 2}{23}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Probability}{25}{section.7.4}%
+\contentsline {subsection}{\numberline {7.2.1}CI's for \(\mu \) when \(\sigma ^2\) is unknown}{24}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}Conditional probability and independence}{25}{section.7.5}%
+\contentsline {subsection}{\numberline {7.2.2}CI's for a population variance \(\sigma ^2\)}{26}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.1}Chain rule}{25}{subsection.7.5.1}%
+\contentsline {part}{III\hspace {1em}Stuff from STAT2003 and such}{27}{part.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.2}Law of total probability and Baye's theorem}{25}{subsection.7.5.2}%
+\contentsline {chapter}{\numberline {8}Random experiments and probability models}{28}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.3}Independence}{25}{subsection.7.5.3}%
+\contentsline {section}{\numberline {8.1}Random experiments}{28}{section.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Formulas}{26}{chapter.8}%
+\contentsline {section}{\numberline {8.2}Sample spaces}{28}{section.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{28}{chapter*.3}%
+\contentsline {section}{\numberline {8.3}Events and sigma algebras}{29}{section.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.4}Probability}{30}{section.8.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.5}Conditional probability and independence}{30}{section.8.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.1}Chain rule}{30}{subsection.8.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.2}Law of total probability and Baye's theorem}{30}{subsection.8.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.5.3}Independence}{30}{subsection.8.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Formulas}{31}{chapter.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{33}{chapter*.3}%
