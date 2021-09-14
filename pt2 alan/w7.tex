@@ -39,7 +39,7 @@ Recall from first year statistics that an approximate \(90\%,95\%\) or \(99\%\) 
 or in general terms 
 
 \begin{align*}
-    \text{condfidence level} \text{CI} &= \text{point estimate} \pm \text{critical value} \times \text{standard error (se)}\\
+    \text{condfidence level}~ \text{CI} &= \text{point estimate} \pm \text{critical value} \times \text{standard error (se)}\\
     &= \text{point estimate} \pm \text{margin of error (MOE)}.\\
 \end{align*}
 
@@ -60,9 +60,45 @@ We have two questions from this:
     \item Why do these critical values \textit{not} depend on the underlying proportion \(p\)?
 \end{enumerate}
 
-\subsection{Pivot quantities} \label{subsec:pivot quants}
+\subsection{Pivot quantities}\label{subsec:pivot quants}
+
+\begin{definition}\label{defn:pivot var}
+    A \textbf{pivot variable} is a theoretical (\& generally not computable) transformation of a random variable (i.e. data) such that its distribution no longer depends on any unknown parameters. 
+\end{definition}
+
+\begin{example}[Pivot variable for Normal data]\label{eg:pivot var normal}
+    Let \(X_1,...,X_n \underset{\text{i.i.d.}}{\sim} N(\mu,\sigma^2)\) where \(\mu\) is unknown but \(\sigma^2\) is known (for simplicity). 
+    What do we know about the distribution of \(\bar{X} = \frac{X_1,...,X_n}{n}\)?
+    \begin{equation*}
+        \bar{X}\sim N(\mu,\frac{\sigma^2}{n}).
+    \end{equation*}
+    Thus, we have a theoretical (\& non-computable) transformation 
+    \begin{equation*}
+        \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \sim N(0,1)
+    \end{equation*}
+    which does \textit{not} depend on any unknown parameters anymore. 
+    Hence, \(\frac{\bar{X} - \mu}{\sigma/\sqrt{n}}\) is an example of a pivot variable. 
+\end{example}
+
+Pivot variables can be used to construct confidence intervals and hypothesis tests for population parameters. 
+
+\begin{example}[Previous example continued]\label{eg:pivot var normal continued}
+    Notice that 
+    \begin{align*}
+        95\% &= \mathbb{P}(-1.96 \leq N(0,1) \leq 1.96)\\
+        &= \mathbb{P}(-1.96 \leq \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \leq 1.96)\\
+        &= \mathbb{P}(-1.96\sigma/\sqrt{n} \leq \bar{X} - \mu \leq 1.96\sigma/\sqrt{n})\\
+        &= \mathbb{P}(\bar{X}+1.96\sigma/\sqrt{n} \geq \mu \geq \bar{X}-1.96\sigma/\sqrt{n})\\
+    \end{align*}
+    This is how the classical 95\% confidence interval for \(\mu\) is derived from first year statistics
+    \begin{equation*}
+        \bar{X}\pm 1.96\sigma/\sqrt{n}
+    \end{equation*}
+    is formally derived. 
+\end{example}
 
 [tbc]
+
 
 
 
