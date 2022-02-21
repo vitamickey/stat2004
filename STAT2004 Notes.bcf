@@ -3487,12 +3487,13 @@
     <bcf:citekey order="2">penn415</bcf:citekey>
     <bcf:citekey order="3">penn415</bcf:citekey>
     <bcf:citekey order="4">penn415</bcf:citekey>
-    <bcf:citekey order="5">MIT</bcf:citekey>
-    <bcf:citekey order="6">stanford</bcf:citekey>
-    <bcf:citekey order="7">penn415</bcf:citekey>
-    <bcf:citekey order="8">rice</bcf:citekey>
+    <bcf:citekey order="5">penn415</bcf:citekey>
+    <bcf:citekey order="6">MIT</bcf:citekey>
+    <bcf:citekey order="7">stanford</bcf:citekey>
+    <bcf:citekey order="8">penn415</bcf:citekey>
     <bcf:citekey order="9">rice</bcf:citekey>
-    <bcf:citekey order="10">penn415</bcf:citekey>
+    <bcf:citekey order="10">rice</bcf:citekey>
+    <bcf:citekey order="11">penn415</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

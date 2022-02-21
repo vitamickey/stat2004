@@ -1,16 +1,16 @@
-[2] Config.pm:311> INFO - This is Biber 2.16
-[2] Config.pm:314> INFO - Logfile is 'STAT2004 Notes.blg'
-[313] biber-MSWIN64:340> INFO - === 
-[473] Biber.pm:415> INFO - Reading 'STAT2004 Notes.bcf'
-[808] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
-[837] Biber.pm:4340> INFO - Processing section 0
-[858] Biber.pm:4531> INFO - Looking for bibtex format file 'refs.bib' for section 0
-[974] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1017] bibtex.pm:1494> INFO - Found BibTeX data source 'refs.bib'
-[1142] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[1142] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1142] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1142] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[1142] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[1153] bbl.pm:654> INFO - Writing 'STAT2004 Notes.bbl' with encoding 'UTF-8'
-[1157] bbl.pm:757> INFO - Output to STAT2004 Notes.bbl
+[1] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'STAT2004 Notes.blg'
+[742] biber-MSWIN64:340> INFO - === 
+[841] Biber.pm:415> INFO - Reading 'STAT2004 Notes.bcf'
+[1159] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[1193] Biber.pm:4340> INFO - Processing section 0
+[1213] Biber.pm:4531> INFO - Looking for bibtex format file 'refs.bib' for section 0
+[1322] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1353] bibtex.pm:1494> INFO - Found BibTeX data source 'refs.bib'
+[1500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1500] Biber.pm:4168> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1501] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1517] bbl.pm:654> INFO - Writing 'STAT2004 Notes.bbl' with encoding 'UTF-8'
+[1521] bbl.pm:757> INFO - Output to STAT2004 Notes.bbl

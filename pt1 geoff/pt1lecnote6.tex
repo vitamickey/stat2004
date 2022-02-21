@@ -23,7 +23,15 @@ A function such as \(\bm{T}\) above that only depends on the data but \textit{no
 
 \bigskip
 
+\subsection{Error}
 
+Given
+
+\begin{equation}\label{eq:error}
+    \mathbb{E}\left[\left|T(\bm{X}) − \theta \right|^a\right],
+\end{equation}
+
+we call equation \ref{eq:error} the \textbf{average mean absolute error} if \(a = 1\), or the \textbf{mean squared error} if \(a=2\).
 
 \subsection{Unbiased estimators}\label{sec:unbiased ests}
 
@@ -55,6 +63,12 @@ hax. This is used in tutorial 2 question 3.
 
 \section{Method of Moments}\label{sec:method of moments}
 
+\textit{With assistance from the folks at PennState, chapter 1.4.\autocite{penn415}}
+
+In order to use the method of moments, we take \(k\) sample moments and equate these to \(k\) population moments, also referred to as theoretical moments. 
+We determine \(k\) by the number of unknown parameters we wish to estimate. 
+The \(k^{\text{th}}\) \textbf{sample moment} is defined as \(\frac{1}{n}\sum_{i}^{n}X_i^k\). 
+The \(k^{\text{th}}\) \textbf{theoretical moment} is defined as \(\mathbb{E}(X^k)\), and is a function of \(\bm{\theta}\).
 
 
 
@@ -70,7 +84,7 @@ Note: The following is almost directly quoted from Pennstate, with only formatti
 
 \subsection{Motivation and intuition}
 Suppose we have a random sample \(\bm{X}_1,...,\bm{X}_n\) whose assumed probability distribution depends on some unknown parameter \(\bm{\theta}\). 
-Our primary goal here will be to find a point estimator \(U(\bm{X}_1,...,\bm{X}_n)\), such that \(U(\bm{x}_1,...,\bm{x}_n)\) is a "good" point estimate of \(\bm{theta}\), where \(\bm{x}_1,...,\bm{x}_n\) are the observed values of the random sample. 
+Our primary goal here will be to find a point estimator \(U(\bm{X}_1,...,\bm{X}_n)\), such that \(U(\bm{x}_1,...,\bm{x}_n)\) is a "good" point estimate of \(\bm{\theta}\), where \(\bm{x}_1,...,\bm{x}_n\) are the observed values of the random sample. 
 For example, if we plan to take a random sample \(\bm{X}_1,...,\bm{X}_n\) for which the \(\bm{X}_i\) are assumed to be normally distributed with mean \(\mu\) and variance \(\sigma^2\), then our goal will be to find a good estimate of \(\mu\), say, using the data \(\bm{x}_1,...,\bm{x}_n\) that we obtained from our specific random sample \autocite{penn415}.
 
 \bigskip
@@ -149,7 +163,7 @@ Here, we introduce \(I(\bm{\theta})\), which becomes useful later in the maximum
 
 That definition feels a bit like abuse of notation... idk that should be single variable stuff. 
 For the multivariable case, this is also just the negative of the Hessian of the log likelihood function, which is what we are interested in for statistics. 
-Anyway, given this, we have the following result which is technically a theorem?:
+Anyway, given this, we have the following result which is technically a theorem and holds for distributions belonging to the regular exponential family:
 
 \begin{equation}\label{eq:thm about expected info as the expectation of I}
     \mathscr{I}(\bm{\theta}) = \mathbb{E}[I(\bm{\theta})]
@@ -265,7 +279,7 @@ are non-negative scalar functions.
 \subsection{Complete???}\label{sec:complete}
 
 I am not sure why it never says this anywhere in the notes explicitly, but being able to find that a likelihood function belongs to the regular exponential family shows that the corresponding \(\bm{T}\) is a complete and sufficient statistic for \(\bm{\theta}\) (see section \ref{sec:sufficiency} for more on sufficiency). 
-I don't even understand what it means to be complete ngl (though there is a definition in the notes on p. 24), but we need for our statistics to be complete in order to apply them. 
+I don't even understand what it means to be complete ngl (though there is a definition in the notes on p. 24), but we need for our statistics to be complete in order to apply different theorems, such as Rao-Blackwell theorem \ref{thm:Rao-Blackwell}.
 I won't write a definition here because it's not even all that practical. 
 
 \subsection{Parameter space}\label{sec:param space}

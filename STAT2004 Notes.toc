@@ -1,6 +1,6 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{34}{chapter*.3}%
+\contentsline {chapter}{Preface}{35}{chapter*.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{I\hspace {1em}Geoff's half of the course}{5}{part.1}%
 \defcounter {refsection}{0}\relax 
@@ -26,7 +26,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.2}Estimate and estimator}{11}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Unbiased estimators}{11}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.1}Error}{11}{subsection.6.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Unbiased estimators}{11}{subsection.6.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}Method of Moments}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
@@ -34,78 +36,78 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.4.1}Motivation and intuition}{12}{subsection.6.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.2}The meat}{12}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.2}The meat}{13}{subsection.6.4.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.5}Regularity conditions (I)}{14}{section.6.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.1}Cram\'{e}r-Rao lower bound}{14}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.1}Cram\'{e}r-Rao lower bound}{15}{subsection.6.5.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.6}Regular exponential family}{16}{section.6.6}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.6.1}Complete???}{16}{subsection.6.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.6.2}Parameter space}{16}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.2}Parameter space}{17}{subsection.6.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.7}UMVU estimators}{16}{section.6.7}%
+\contentsline {section}{\numberline {6.7}UMVU estimators}{17}{section.6.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.8}Maximum Likelihood Method (ML)}{17}{section.6.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.9}Sufficiency}{18}{section.6.9}%
+\contentsline {section}{\numberline {6.9}Sufficiency}{19}{section.6.9}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.10}I am not sure what to call this section}{19}{section.6.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.11}Jensen's Inequality}{19}{section.6.11}%
+\contentsline {section}{\numberline {6.11}Jensen's Inequality}{20}{section.6.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.12}Kullback-Leibler Distance}{19}{section.6.12}%
+\contentsline {section}{\numberline {6.12}Kullback-Leibler Distance}{20}{section.6.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.13}Large Sample Theory}{19}{section.6.13}%
+\contentsline {section}{\numberline {6.13}Large Sample Theory}{20}{section.6.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.14}Consistency}{19}{section.6.14}%
+\contentsline {section}{\numberline {6.14}Consistency}{20}{section.6.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.15}Large-sample comparisons of estimators}{20}{section.6.15}%
+\contentsline {section}{\numberline {6.15}Large-sample comparisons of estimators}{21}{section.6.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.16}Asymptotic efficiency}{20}{section.6.16}%
+\contentsline {section}{\numberline {6.16}Asymptotic efficiency}{21}{section.6.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.17}Maximum likelihood theorems}{20}{section.6.17}%
+\contentsline {section}{\numberline {6.17}Maximum likelihood theorems}{21}{section.6.17}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.18}Asymptotic distribution theorems}{20}{section.6.18}%
+\contentsline {section}{\numberline {6.18}Asymptotic distribution theorems}{21}{section.6.18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{II\hspace {1em}Alan's half of the course}{21}{part.2}%
+\contentsline {part}{II\hspace {1em}Alan's half of the course}{22}{part.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Week 7}{22}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Week 7}{23}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Week 7 Lecture 1}{22}{section.7.1}%
+\contentsline {section}{\numberline {7.1}Week 7 Lecture 1}{23}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Margin of error and level of confidence}{22}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.1}Margin of error and level of confidence}{23}{subsection.7.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.2}Pivot quantities}{23}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.2}Pivot quantities}{24}{subsection.7.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Week 7 Lecture 2}{24}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Week 7 Lecture 2}{25}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}CI's for \(\mu \) when \(\sigma ^2\) is unknown}{25}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.1}CI's for \(\mu \) when \(\sigma ^2\) is unknown}{26}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}CI's for a population variance \(\sigma ^2\)}{26}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.2}CI's for a population variance \(\sigma ^2\)}{27}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{III\hspace {1em}Stuff from STAT2003 and such}{28}{part.3}%
+\contentsline {part}{III\hspace {1em}Stuff from STAT2003 and such}{29}{part.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Random experiments and probability models}{29}{chapter.8}%
+\contentsline {chapter}{\numberline {8}Random experiments and probability models}{30}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Random experiments}{29}{section.8.1}%
+\contentsline {section}{\numberline {8.1}Random experiments}{30}{section.8.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Sample spaces}{29}{section.8.2}%
+\contentsline {section}{\numberline {8.2}Sample spaces}{30}{section.8.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Events and sigma algebras}{30}{section.8.3}%
+\contentsline {section}{\numberline {8.3}Events and sigma algebras}{31}{section.8.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Probability}{31}{section.8.4}%
+\contentsline {section}{\numberline {8.4}Probability}{32}{section.8.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}Conditional probability and independence}{31}{section.8.5}%
+\contentsline {section}{\numberline {8.5}Conditional probability and independence}{32}{section.8.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.1}Chain rule}{31}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.1}Chain rule}{32}{subsection.8.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.2}Law of total probability and Baye's theorem}{31}{subsection.8.5.2}%
+\contentsline {subsection}{\numberline {8.5.2}Law of total probability and Baye's theorem}{32}{subsection.8.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.5.3}Independence}{31}{subsection.8.5.3}%
+\contentsline {subsection}{\numberline {8.5.3}Independence}{32}{subsection.8.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}Formulas}{32}{chapter.9}%
+\contentsline {chapter}{\numberline {9}Formulas}{33}{chapter.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Preface}{34}{chapter*.3}%
+\contentsline {chapter}{Preface}{35}{chapter*.3}%
