@@ -46,8 +46,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.6.1}Complete???}{16}{subsection.6.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.6.2}Parameter space}{17}{subsection.6.6.2}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.7}UMVU estimators}{17}{section.6.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.8}Maximum Likelihood Method (ML)}{17}{section.6.8}%

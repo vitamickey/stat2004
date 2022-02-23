@@ -279,12 +279,16 @@ are non-negative scalar functions.
 \subsection{Complete???}\label{sec:complete}
 
 I am not sure why it never says this anywhere in the notes explicitly, but being able to find that a likelihood function belongs to the regular exponential family shows that the corresponding \(\bm{T}\) is a complete and sufficient statistic for \(\bm{\theta}\) (see section \ref{sec:sufficiency} for more on sufficiency). 
-I don't even understand what it means to be complete ngl (though there is a definition in the notes on p. 24), but we need for our statistics to be complete in order to apply different theorems, such as Rao-Blackwell theorem \ref{thm:Rao-Blackwell}.
-I won't write a definition here because it's not even all that practical. 
+I don't even understand what it means to be complete ngl (though there is a definition in the notes on p. 24), but we need for our statistics to be complete in order to apply different theorems, such as Rao-Blackwell theorem \ref{thm:Rao-Blackwell}, since completeness guarantees uniqueness in certain statistical procedures based on \(\bm{T}\).
+I won't write a definition here because it's not even all that practical. Actually, just kidding, I will.
 
-\subsection{Parameter space}\label{sec:param space}
-
-\(\bm{X}_1,...,\bm{X}_n\)
+\begin{definition}[\textbf{Complete}]\label{defn:complete}
+    A sufficient statistic \(\bm{T}\) is said to be \textbf{complete} if 
+    \begin{equation}\label{eq:complete premise}
+        \mathbb{E}_{\bm{\theta}}[w(\bm{T})] = \bm{0}, \forall \bm{\theta} \in \bm{\Omega} \Rightarrow w{\bm{T}} \equiv \bm{0}
+    \end{equation}
+    except perhaps on a set of probability zero. 
+\end{definition}
 
 
 

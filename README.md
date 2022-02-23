@@ -7,3 +7,5 @@ me trying to digest all this info and references to assignments or tutorial exer
 this has been written for me but if it helps you then that makes me glad. thus, I share :)
 
 pls read the preamble before perusing. 
+
+also I am so glad these notes are extremely applicable for STAT3001
