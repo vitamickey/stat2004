@@ -32,9 +32,9 @@ This gives the first ingredient in our model for a random experiment.
 The following are examples of random experiments with their sample spaces. 
 
 \begin{enumerate}
-    \item Casting two die consecutively, \[\Omega = \{(1,1),(1,2), ..., (1,6),(2,1),...,(6,6)\}.\]
-    \item The number of ducks that might walk past on a given day, \[\Omega =\{0,1,2,...\} = \mathbb{Z}^{\geq 0}.\]
-    \item The length of 5 footlong subs purchased from a Subway, \[\Omega = \{(x_1,...,x_5)\mid x_i\geq0, i=1,...,5\}.\]
+    \item Casting two die consecutively, \[\Omega = \{(1,1),(1,2), \ldots , (1,6),(2,1),\ldots ,(6,6)\}.\]
+    \item The number of ducks that might walk past on a given day, \[\Omega =\{0,1,2,\ldots \} = \mathbb{Z}^{\geq 0}.\]
+    \item The length of 5 footlong subs purchased from a Subway, \[\Omega = \{(x_1,\ldots ,x_5)\mid x_i\geq0, i=1,\ldots ,5\}.\]
 \end{enumerate}
 
 Note that for modelling purposes it is often easier to take the sample 
@@ -46,14 +46,14 @@ and we would not expect 1000 ducks to walk past a regular lake.
 
 Often we are not interested in a single outcome but in whether 
 one of a \textit{group} of outcomes occurs. Such subsets 
-of the sample space are called \textbf{events}, denoted by \(A, B, C, ...\). 
+of the sample space are called \textbf{events}, denoted by \(A, B, C, \ldots \). 
 We say that event \(A\) occurs if the outcome of the experiment is one of the elements in \(A\). 
 \medskip
 Examples of events are:
 
 \begin{enumerate}
     \item The event that the sum of two dice is 10 or more, \[A = \{(5,5),(5,6),(6,5),(6,6)\}.\]
-    \item The event that we see at most a dozen ducks today, \[A = \{0, 1, ..., 12\}.\]
+    \item The event that we see at most a dozen ducks today, \[A = \{0, 1, \ldots , 12\}.\]
     \item The event that a Subway footlong is an acceptable length (in inches), \[A = [11.5,12.5].\]
     \item The event that out of fifty selected people, 5 are left-handed, \[A = \{5\}.\]
 \end{enumerate}
@@ -69,7 +69,7 @@ the notion of events, we introduce the abstraction of sets of events, i.e. \text
     \begin{enumerate}
         \item \(\mathcal{F}\) is non-empty
         \item \(A\in\mathcal{F}\Rightarrow A^c\in\mathcal{F}\)
-        \item \(A_1, A_2,...\in\mathcal{F}\Rightarrow \bigcup_{i=1}^\infty A_i\in\mathcal{F}\)
+        \item \(A_1, A_2,\ldots \in\mathcal{F}\Rightarrow \bigcup_{i=1}^\infty A_i\in\mathcal{F}\)
     \end{enumerate}
 \end{definition}
 
@@ -82,7 +82,7 @@ is an element of \(A\), i.e. \(\omega\in A\).
         \item If \(\Omega\) is a sample space, the power set (the set of all 
         subsets of a set where \(|\mathcal{P}(\Omega)|=2^{|\Omega|}\))
         is an event space.
-        \item \(\{\varnothing, \Omega, \{1, 2\}, \{3, 4\}, ...\}\) when you throw a dice multiple times. 
+        \item \(\{\varnothing, \Omega, \{1, 2\}, \{3, 4\}, \ldots \}\) when you throw a dice multiple times. 
     \end{enumerate}
 \end{example}
 
@@ -94,7 +94,7 @@ In the context of sigma algebras, an event is an element of
 a sigma algebra and itself is a set. So, we can apply our usual set operations:
 
 \bigskip
-For \(A,B\in\mathcal{F},\)
+For \(A,B\in\mathcal{F}\),
 
 \begin{enumerate}
     \item the set \(A\cup B\) (\(A\) \textbf{union} \(B\)) is the event that either \(A\) \textit{or} \(B\) occur,
@@ -111,7 +111,7 @@ are called \textbf{disjoint} events.
 % Some additional properties of (finite) event sets include:
 
 % \begin{enumerate}
-%     \item If \(A_1, ..., A_n\in\mathcal{F} \Rightarrow \bigcup_{i=1}^n A_i\in\mathcal{F}\)\\
+%     \item If \(A_1, \ldots , A_n\in\mathcal{F} \Rightarrow \bigcup_{i=1}^n A_i\in\mathcal{F}\)\\
 %     \item \(\varnothing, \Omega \in\mathcal{F} \). 
 % \end{enumerate}
 
@@ -129,7 +129,7 @@ rigorous definitions and axioms for probability measures.
     a positive number to each event and satisfies the following axioms:\\
     Axiom 1: \(\mathbb{P}(A)\geq0 \forall A\in\mathcal{F}\)\\
     Axiom 2: \(\mathbb{P}(\Omega)=1\)\\
-    Axiom 3: For any sequence \(A_1,A_2,...\) of \textit{disjoint} events we have
+    Axiom 3: For any sequence \(A_1,A_2,\ldots \) of \textit{disjoint} events we have
     \[\mathbb{P}(\bigcup_{i}A_i) = \sum_i \mathbb{P}(A_i)\tag{1.3}.\]
 \end{definition}
 
@@ -141,7 +141,7 @@ rigorous definitions and axioms for probability measures.
     Wow it's Baye's!
 \end{theorem}
 
-See \ref{thm:Baye's}
+See \cref{thm:Baye's}
 
 \subsection{Law of total probability and Baye's theorem}
 
@@ -151,3 +151,5 @@ See \ref{thm:Baye's}
 % \end{example}
 
 \subsection{Independence}
+
+Incomplete. 

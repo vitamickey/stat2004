@@ -1,5 +1,3 @@
-
-
 \chapter[Lec 3: Examples using Baye's theorem]{Lec 3: Examples using\\Baye's theorem}
 
 
@@ -13,23 +11,23 @@
 
 A helpful interpretation of this definition is that in order for \(A\) to occur, if \(B\) is given then the event must 
 lie within the intersection of \(A\) and \(B\). Then, we incorporate the information from \(B\) already having occured. 
-Or, we consider \(B\) our new "sample space" and are looking for the likelihood that the event lands in the event \(A\). 
+Or, we consider \(B\) our new `sample space' and are looking for the likelihood that the event lands in the event \(A\). 
 
 \bigskip
 
 Next, we introduce the \textbf{Law of Total Probability}. 
 
 \begin{theorem}[Law of Total Probability]\label{thm:law of TP}
-    If \(\{B_1,...,B_n\}\) be a partition of \(\Omega\) with \(\mathbb{P}(B_i)>0\) for all \(i\), then
+    If \(\{B_1,\ldots,B_n\}\) be a partition of \(\Omega\) with \(\mathbb{P}(B_i)>0\) for all \(i\), then
     \begin{equation}\label{eq:law of TP}
         \mathbb{P}(A)= \sum_{i=1}^n \mathbb{P}(A|B_i)\mathbb{P}(B_i).
     \end{equation}
 \end{theorem}
 
-When we combine the Law of Total Probability (equation \ref{eq:law of TP}) together with the definition of conditional probability (equation \ref{eq:cond prob}), we obtain the following:
+When we combine the Law of Total Probability (\cref{eq:law of TP}) together with the definition of conditional probability (\cref{eq:cond prob}), we obtain the following:
 
 \begin{theorem}[Baye's Theorem]\label{thm:Baye's}
-    Let \(\{B_1,...,B_n\}\) be a partition of \(\Omega\) with \(\mathbb{P}(B_i)>0\) for all \(i\) and assume \(\mathbb{P}(A)>0\). Then, 
+    Let \(\{B_1,\ldots,B_n\}\) be a partition of \(\Omega\) with \(\mathbb{P}(B_i)>0\) for all \(i\) and assume \(\mathbb{P}(A)>0\). Then, 
     \begin{equation}\label{eq:Baye's}
         \mathbb{P}(B_j|A) = \frac{\mathbb{P}(B_j)\mathbb{P}(A|B_j)}{\sum_{i=1}^n \mathbb{P}(B_i)\mathbb{P}(A|B_i)}.
     \end{equation}
@@ -37,7 +35,3 @@ When we combine the Law of Total Probability (equation \ref{eq:law of TP}) toget
 
 Now, we consider Baye's Theorem in terms of applications to cancer screenings. 
 Here, \(B = \{\text{diagnosis is positive}\}\), \(A_i = \{\text{the }i^{\text{th}} \text{ person has cancer}\}\). 
-
-
-
-

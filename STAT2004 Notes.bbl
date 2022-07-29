@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -21,16 +21,18 @@
   \datalist[entry]{cms/global//global/global}
     \entry{stanford}{misc}{}
       \name{author}{2}{}{%
-        {{hash=e6596b8ab38bb90920ac37d8951b05b6}{%
+        {{un=0,uniquepart=base,hash=e6596b8ab38bb90920ac37d8951b05b6}{%
            family={Jiao},
            familyi={J\bibinitperiod},
            given={Jiantao},
-           giveni={J\bibinitperiod}}}%
-        {{hash=9cd729c12c995c3500c81a2699a2bf2d}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cd729c12c995c3500c81a2699a2bf2d}{%
            family={Weissman},
            familyi={W\bibinitperiod},
            given={Tsachy},
-           giveni={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{23611d4ece7dea345e0386ca68456917}
       \strng{fullhash}{23611d4ece7dea345e0386ca68456917}
@@ -49,11 +51,12 @@
     \endentry
     \entry{MIT}{misc}{}
       \name{author}{1}{}{%
-        {{hash=055a6b5e68b351a34c156538cca4f647}{%
+        {{un=0,uniquepart=base,hash=055a6b5e68b351a34c156538cca4f647}{%
            family={Kempthorne},
            familyi={K\bibinitperiod},
            given={Peter},
-           giveni={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{055a6b5e68b351a34c156538cca4f647}
       \strng{fullhash}{055a6b5e68b351a34c156538cca4f647}
@@ -72,11 +75,12 @@
     \endentry
     \entry{reference}{misc}{}
       \name{author}{1}{}{%
-        {{hash=6d119ac77b50b64c5fc0283852f3b622}{%
+        {{un=0,uniquepart=base,hash=6d119ac77b50b64c5fc0283852f3b622}{%
            family={McLachlan},
            familyi={M\bibinitperiod},
            given={Geoff},
-           giveni={G\bibinitperiod}}}%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{6d119ac77b50b64c5fc0283852f3b622}
       \strng{fullhash}{6d119ac77b50b64c5fc0283852f3b622}
@@ -94,11 +98,12 @@
     \endentry
     \entry{rice}{book}{}
       \name{author}{1}{}{%
-        {{hash=2c6d52c5198f5f18ca729b1c318f9d80}{%
+        {{un=0,uniquepart=base,hash=2c6d52c5198f5f18ca729b1c318f9d80}{%
            family={Rice},
            familyi={R\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Cengage Learning}%
@@ -119,7 +124,7 @@
     \endentry
     \entry{penn415}{misc}{}
       \name{author}{1}{}{%
-        {{hash=c19e6499abcd00c17f7a9c22ea676d0a}{%
+        {{un=0,uniquepart=base,hash=c19e6499abcd00c17f7a9c22ea676d0a}{%
            family={{The Pennsylvania State University}},
            familyi={T\bibinitperiod}}}%
       }
