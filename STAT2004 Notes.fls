@@ -4,266 +4,55 @@ INPUT c:\Users\Michaela\Documents\stat2004\STAT2004 Notes.tex
 OUTPUT STAT2004 Notes.log
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\import\import.sty
-INPUT .\preamble.sty
 INPUT .\preamble.sty
 INPUT preamble.sty
-INPUT .\preamble.sty
-INPUT .\preamble.sty
-INPUT .\preamble.sty
-INPUT .\preamble.sty
-INPUT .\preamble.sty
-INPUT preamble.sty
-INPUT .\preamble.sty
-INPUT preamble.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\biblatex-chicago.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
@@ -290,384 +79,89 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblate
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\dvipsnam.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\needspace\needspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common-lists.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
@@ -675,19 +169,13 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlaye
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
@@ -699,6 +187,7 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfma
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
@@ -722,78 +211,23 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
@@ -805,606 +239,183 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendla
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\md-frame-1.mdf
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\md-frame-1.mdf
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\md-frame-1.mdf
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\md-frame-1.mdf
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmdef-mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\mdframed\mdframed.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
+INPUT .\STAT2004 Notes.aux
 INPUT .\STAT2004 Notes.aux
 INPUT STAT2004 Notes.aux
-INPUT STAT2004 Notes.aux
+INPUT .\pre\titlepageandtoc.aux
 INPUT .\pre\titlepageandtoc.aux
 INPUT pre\titlepageandtoc.aux
-INPUT pre\titlepageandtoc.aux
 INPUT .\pre\preface.aux
-INPUT pre\preface.aux
+INPUT .\pre\preface.aux
 INPUT pre\preface.aux
 INPUT .\pt1 geoff\pt1lecnote1.aux
-INPUT pt1 geoff\pt1lecnote1.aux
+INPUT .\pt1 geoff\pt1lecnote1.aux
 INPUT pt1 geoff\pt1lecnote1.aux
 INPUT .\pt1 geoff\pt1lecnote2.aux
-INPUT pt1 geoff\pt1lecnote2.aux
+INPUT .\pt1 geoff\pt1lecnote2.aux
 INPUT pt1 geoff\pt1lecnote2.aux
 INPUT .\pt1 geoff\pt1lecnote3.aux
-INPUT pt1 geoff\pt1lecnote3.aux
+INPUT .\pt1 geoff\pt1lecnote3.aux
 INPUT pt1 geoff\pt1lecnote3.aux
 INPUT .\pt1 geoff\pt1lecnote4.aux
-INPUT pt1 geoff\pt1lecnote4.aux
+INPUT .\pt1 geoff\pt1lecnote4.aux
 INPUT pt1 geoff\pt1lecnote4.aux
 INPUT .\pt1 geoff\pt1lecnote5.aux
-INPUT pt1 geoff\pt1lecnote5.aux
+INPUT .\pt1 geoff\pt1lecnote5.aux
 INPUT pt1 geoff\pt1lecnote5.aux
 INPUT .\pt1 geoff\pt1lecnote6.aux
-INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
 INPUT .\pt1 geoff\pt1lecnote7.aux
-INPUT pt1 geoff\pt1lecnote7.aux
+INPUT .\pt1 geoff\pt1lecnote7.aux
 INPUT pt1 geoff\pt1lecnote7.aux
 INPUT .\pt2 alan\w7.aux
-INPUT pt2 alan\w7.aux
+INPUT .\pt2 alan\w7.aux
 INPUT pt2 alan\w7.aux
 INPUT .\pt3 supplement\pt3.aux
-INPUT pt3 supplement\pt3.aux
+INPUT .\pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
 INPUT .\pt3 supplement\pt3formulas.aux
+INPUT .\pt3 supplement\pt3formulas.aux
 INPUT pt3 supplement\pt3formulas.aux
-INPUT pt3 supplement\pt3formulas.aux
-INPUT .\pre\preface.aux
-INPUT pre\preface.aux
 INPUT pre\preface.aux
 OUTPUT STAT2004 Notes.aux
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-chicago\cms-american.lbx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\american.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\american.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\american.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT STAT2004 Notes.bcf
 INPUT STAT2004 Notes.bbl
 INPUT .\STAT2004 Notes.bbl
-INPUT STAT2004 Notes.bbl
 INPUT .\STAT2004 Notes.bbl
 INPUT .\STAT2004 Notes.bbl
 INPUT STAT2004 Notes.bbl
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\STAT2004 Notes.out
 INPUT .\STAT2004 Notes.out
 INPUT STAT2004 Notes.out
-INPUT .\STAT2004 Notes.out
-INPUT STAT2004 Notes.out
-INPUT .\STAT2004 Notes.out
-INPUT STAT2004 Notes.out
-INPUT .\STAT2004 Notes.out
 INPUT STAT2004 Notes.out
 OUTPUT STAT2004 Notes.pdf
 INPUT .\STAT2004 Notes.out
 INPUT .\STAT2004 Notes.out
 OUTPUT STAT2004 Notes.out
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT .\pre\titlepageandtoc.tex
 INPUT .\pre\titlepageandtoc.tex
 INPUT .\pre\titlepageandtoc.tex
 OUTPUT pre\titlepageandtoc.aux
 INPUT .\pre\titlepageandtoc.tex
 INPUT .\pre\titlepageandtoc.tex
-INPUT .\pre\titlepageandtoc.tex
 INPUT pre\titlepageandtoc.tex
-INPUT .\pre\titlepageandtoc.tex
 INPUT pre\titlepageandtoc.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
@@ -1490,13 +501,10 @@ INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 OUTPUT STAT2004 Notes.toc
 INPUT .\pre\preface.tex
 INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
 OUTPUT pre\preface.aux
 INPUT .\pre\preface.tex
 INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
 INPUT pre\preface.tex
-INPUT .\pre\preface.tex
 INPUT pre\preface.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
@@ -1504,23 +512,17 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecxc1200.tfm
 INPUT .\pt1 geoff\pt1lecnote1.tex
 INPUT .\pt1 geoff\pt1lecnote1.tex
-INPUT .\pt1 geoff\pt1lecnote1.tex
 OUTPUT pt1 geoff\pt1lecnote1.aux
 INPUT .\pt1 geoff\pt1lecnote1.tex
 INPUT .\pt1 geoff\pt1lecnote1.tex
-INPUT .\pt1 geoff\pt1lecnote1.tex
 INPUT pt1 geoff\pt1lecnote1.tex
-INPUT .\pt1 geoff\pt1lecnote1.tex
 INPUT pt1 geoff\pt1lecnote1.tex
-INPUT .\pt1 geoff\pt1lecnote2.tex
 INPUT .\pt1 geoff\pt1lecnote2.tex
 INPUT .\pt1 geoff\pt1lecnote2.tex
 OUTPUT pt1 geoff\pt1lecnote2.aux
 INPUT .\pt1 geoff\pt1lecnote2.tex
 INPUT .\pt1 geoff\pt1lecnote2.tex
-INPUT .\pt1 geoff\pt1lecnote2.tex
 INPUT pt1 geoff\pt1lecnote2.tex
-INPUT .\pt1 geoff\pt1lecnote2.tex
 INPUT pt1 geoff\pt1lecnote2.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti0800.tfm
@@ -1528,43 +530,31 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti0600.tfm
 INPUT .\pt1 geoff\pt1lecnote3.tex
 INPUT .\pt1 geoff\pt1lecnote3.tex
-INPUT .\pt1 geoff\pt1lecnote3.tex
 OUTPUT pt1 geoff\pt1lecnote3.aux
 INPUT .\pt1 geoff\pt1lecnote3.tex
 INPUT .\pt1 geoff\pt1lecnote3.tex
-INPUT .\pt1 geoff\pt1lecnote3.tex
 INPUT pt1 geoff\pt1lecnote3.tex
-INPUT .\pt1 geoff\pt1lecnote3.tex
 INPUT pt1 geoff\pt1lecnote3.tex
-INPUT .\pt1 geoff\pt1lecnote4.tex
 INPUT .\pt1 geoff\pt1lecnote4.tex
 INPUT .\pt1 geoff\pt1lecnote4.tex
 OUTPUT pt1 geoff\pt1lecnote4.aux
 INPUT .\pt1 geoff\pt1lecnote4.tex
 INPUT .\pt1 geoff\pt1lecnote4.tex
-INPUT .\pt1 geoff\pt1lecnote4.tex
 INPUT pt1 geoff\pt1lecnote4.tex
-INPUT .\pt1 geoff\pt1lecnote4.tex
 INPUT pt1 geoff\pt1lecnote4.tex
-INPUT .\pt1 geoff\pt1lecnote5.tex
 INPUT .\pt1 geoff\pt1lecnote5.tex
 INPUT .\pt1 geoff\pt1lecnote5.tex
 OUTPUT pt1 geoff\pt1lecnote5.aux
 INPUT .\pt1 geoff\pt1lecnote5.tex
 INPUT .\pt1 geoff\pt1lecnote5.tex
-INPUT .\pt1 geoff\pt1lecnote5.tex
 INPUT pt1 geoff\pt1lecnote5.tex
-INPUT .\pt1 geoff\pt1lecnote5.tex
 INPUT pt1 geoff\pt1lecnote5.tex
-INPUT .\pt1 geoff\pt1lecnote6.tex
 INPUT .\pt1 geoff\pt1lecnote6.tex
 INPUT .\pt1 geoff\pt1lecnote6.tex
 OUTPUT pt1 geoff\pt1lecnote6.aux
 INPUT .\pt1 geoff\pt1lecnote6.tex
 INPUT .\pt1 geoff\pt1lecnote6.tex
-INPUT .\pt1 geoff\pt1lecnote6.tex
 INPUT pt1 geoff\pt1lecnote6.tex
-INPUT .\pt1 geoff\pt1lecnote6.tex
 INPUT pt1 geoff\pt1lecnote6.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
@@ -1578,13 +568,10 @@ INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1200.tfm
 INPUT .\pt1 geoff\pt1lecnote7.tex
 INPUT .\pt1 geoff\pt1lecnote7.tex
-INPUT .\pt1 geoff\pt1lecnote7.tex
 OUTPUT pt1 geoff\pt1lecnote7.aux
 INPUT .\pt1 geoff\pt1lecnote7.tex
 INPUT .\pt1 geoff\pt1lecnote7.tex
-INPUT .\pt1 geoff\pt1lecnote7.tex
 INPUT pt1 geoff\pt1lecnote7.tex
-INPUT .\pt1 geoff\pt1lecnote7.tex
 INPUT pt1 geoff\pt1lecnote7.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
@@ -1616,23 +603,20 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy1
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT .\pt2 alan\w7.tex
 INPUT .\pt2 alan\w7.tex
 INPUT .\pt2 alan\w7.tex
 OUTPUT pt2 alan\w7.aux
 INPUT .\pt2 alan\w7.tex
 INPUT .\pt2 alan\w7.tex
-INPUT .\pt2 alan\w7.tex
 INPUT pt2 alan\w7.tex
-INPUT .\pt2 alan\w7.tex
 INPUT pt2 alan\w7.tex
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT .\pt2 alan\\w7lec2fig1.png
-INPUT pt2 alan\\w7lec2fig1.png
-INPUT .\pt2 alan\\w7lec2fig1.png
-INPUT .\pt2 alan\\w7lec2fig1.png
-INPUT .\pt2 alan\\w7lec2fig1.png
-INPUT .\pt2 alan\\w7lec2fig1.png
+INPUT .\pt2 alan\w7lec2fig1.png
+INPUT pt2 alan\w7lec2fig1.png
+INPUT .\pt2 alan\w7lec2fig1.png
+INPUT .\pt2 alan\w7lec2fig1.png
+INPUT .\pt2 alan\w7lec2fig1.png
+INPUT .\pt2 alan\w7lec2fig1.png
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
@@ -1641,73 +625,58 @@ INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt
 INPUT C:\Users\Michaela\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT .\pt3 supplement\pt3.tex
 INPUT .\pt3 supplement\pt3.tex
-INPUT .\pt3 supplement\pt3.tex
 OUTPUT pt3 supplement\pt3.aux
 INPUT .\pt3 supplement\pt3.tex
 INPUT .\pt3 supplement\pt3.tex
-INPUT .\pt3 supplement\pt3.tex
 INPUT pt3 supplement\pt3.tex
-INPUT .\pt3 supplement\pt3.tex
 INPUT pt3 supplement\pt3.tex
-INPUT .\pt3 supplement\pt3formulas.tex
 INPUT .\pt3 supplement\pt3formulas.tex
 INPUT .\pt3 supplement\pt3formulas.tex
 OUTPUT pt3 supplement\pt3formulas.aux
 INPUT .\pt3 supplement\pt3formulas.tex
 INPUT .\pt3 supplement\pt3formulas.tex
-INPUT .\pt3 supplement\pt3formulas.tex
 INPUT pt3 supplement\pt3formulas.tex
-INPUT .\pt3 supplement\pt3formulas.tex
 INPUT pt3 supplement\pt3formulas.tex
-INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
 OUTPUT pre\preface.aux
-INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
-INPUT .\pre\preface.tex
 INPUT pre\preface.tex
-INPUT .\pre\preface.tex
 INPUT pre\preface.tex
 INPUT STAT2004 Notes.aux
 INPUT .\pre\titlepageandtoc.aux
-INPUT pre\titlepageandtoc.aux
+INPUT .\pre\titlepageandtoc.aux
 INPUT pre\titlepageandtoc.aux
 INPUT .\pre\preface.aux
-INPUT pre\preface.aux
+INPUT .\pre\preface.aux
 INPUT pre\preface.aux
 INPUT .\pt1 geoff\pt1lecnote1.aux
-INPUT pt1 geoff\pt1lecnote1.aux
+INPUT .\pt1 geoff\pt1lecnote1.aux
 INPUT pt1 geoff\pt1lecnote1.aux
 INPUT .\pt1 geoff\pt1lecnote2.aux
-INPUT pt1 geoff\pt1lecnote2.aux
+INPUT .\pt1 geoff\pt1lecnote2.aux
 INPUT pt1 geoff\pt1lecnote2.aux
 INPUT .\pt1 geoff\pt1lecnote3.aux
-INPUT pt1 geoff\pt1lecnote3.aux
+INPUT .\pt1 geoff\pt1lecnote3.aux
 INPUT pt1 geoff\pt1lecnote3.aux
 INPUT .\pt1 geoff\pt1lecnote4.aux
-INPUT pt1 geoff\pt1lecnote4.aux
+INPUT .\pt1 geoff\pt1lecnote4.aux
 INPUT pt1 geoff\pt1lecnote4.aux
 INPUT .\pt1 geoff\pt1lecnote5.aux
-INPUT pt1 geoff\pt1lecnote5.aux
+INPUT .\pt1 geoff\pt1lecnote5.aux
 INPUT pt1 geoff\pt1lecnote5.aux
 INPUT .\pt1 geoff\pt1lecnote6.aux
-INPUT pt1 geoff\pt1lecnote6.aux
+INPUT .\pt1 geoff\pt1lecnote6.aux
 INPUT pt1 geoff\pt1lecnote6.aux
 INPUT .\pt1 geoff\pt1lecnote7.aux
-INPUT pt1 geoff\pt1lecnote7.aux
+INPUT .\pt1 geoff\pt1lecnote7.aux
 INPUT pt1 geoff\pt1lecnote7.aux
 INPUT .\pt2 alan\w7.aux
-INPUT pt2 alan\w7.aux
+INPUT .\pt2 alan\w7.aux
 INPUT pt2 alan\w7.aux
 INPUT .\pt3 supplement\pt3.aux
-INPUT pt3 supplement\pt3.aux
+INPUT .\pt3 supplement\pt3.aux
 INPUT pt3 supplement\pt3.aux
 INPUT .\pt3 supplement\pt3formulas.aux
+INPUT .\pt3 supplement\pt3formulas.aux
 INPUT pt3 supplement\pt3formulas.aux
-INPUT pt3 supplement\pt3formulas.aux
-INPUT .\pre\preface.aux
-INPUT pre\preface.aux
 INPUT pre\preface.aux
 INPUT .\STAT2004 Notes.out
 INPUT .\STAT2004 Notes.out
@@ -1719,6 +688,8 @@ INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0800.pk
+INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0800.pk
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1200.pk
 INPUT C:\Users\Michaela\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
