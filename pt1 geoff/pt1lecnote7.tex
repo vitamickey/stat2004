@@ -5,16 +5,25 @@ In essence, there is one key takeaway to get from this lecture note.
 \medskip 
 
 Let \(X_1,\ldots,X_n \overset{\text{i.i.d.}}{\sim} N(\mu,\sigma^2)\), where \(\mu, \sigma^2\) are both unknown. 
-Geoff provides a pretty comprehensive outline of the derivation of the following key result. 
+The formula for \textbf{bias-corrected sample variance}, or, \textbf{unbiased sample variance}, which I think is equivalent to the \textbf{bias-corrected MLE}, or, \textbf{unbiased MLE}, is given by 
 
-\begin{theorem}[Distribution of sample variance]\label{thm:dist of sample var}
-    Let \(s^2 = \frac{1}{n-1}\sum_{i=1}^{n}{(X_i - \bar{X})}^2\). Then, 
+\begin{equation}\label{eq:unbiased sample var}
+    s^2 = \frac{1}{n-1}\sum_{i=1}^{n}{(X_i - \bar{X})}^2,
+\end{equation}
+
+where \(\bar{X}\) represents the sample mean \(\sum_{i=1}^{n}\frac{X_i}{n}\). 
+With this formula, Geoff provides a pretty comprehensive outline of the derivation of the following key result. 
+
+\begin{theorem}[Distribution of unbiased sample variance]\label{thm:dist of sample var}
+    Let \(X_1,\ldots,X_n \overset{\text{i.i.d.}}{\sim} N(\mu,\sigma^2)\), where \(\mu, \sigma^2\) are both unknown.
+    Then, given the established formula in \cref{eq:unbiased sample var} for \(s^2\), 
     \[\frac{(n-1)s^2}{\sigma^2} \sim \chi_{n-1}^{2}.\]
 \end{theorem}
 
-In its most basic form, I prefer to think about the above result as follows. 
+In its most basic form, I prefer to think about \cref{thm:dist of sample var} as follows. 
 
 \begin{theorem}[Distribution of sum of squares]\label{thm:dist of sum of squares}
+    With the same conditions as \cref{thm:dist of sample var},
     \[\frac{1}{\sigma^2}\sum_{i=1}^{n}{(X_i - \bar{X})}^2 \sim \chi_{n-1}^{2}.\]
 \end{theorem}
 
@@ -26,11 +35,7 @@ It is easy to find that the \textbf{biased MLE} for \(\sigma^2\) is given by
 \end{equation}
 
 (Insert stuff about its relation to \cref{thm:dist of sum of squares}).
-We also know that sample variance, which is equivalent to the \textbf{bias-corrected MLE}, or \textbf{unbiased MLE}, is given by 
 
-\begin{equation}\label{eq:unbiased MLE var}
-    s^2 = \frac{1}{n-1}\sum_{i=1}^{n}{(X_i - \bar{X})}^2.
-\end{equation}
 
 Combining this with \cref{thm:dist of sum of squares}
 From this, we can use helpful properties of the \(\chi^2\) distribution when needing to calculate some results. 
